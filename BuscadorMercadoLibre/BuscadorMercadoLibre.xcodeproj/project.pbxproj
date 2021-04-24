@@ -14,18 +14,10 @@
 		7EA95F28263472310069FCAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EA95F27263472310069FCAF /* Assets.xcassets */; };
 		7EA95F2B263472310069FCAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EA95F29263472310069FCAF /* LaunchScreen.storyboard */; };
 		7EA95F36263472310069FCAF /* BuscadorMercadoLibreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F35263472310069FCAF /* BuscadorMercadoLibreTests.swift */; };
-		7EA95F41263472310069FCAF /* BuscadorMercadoLibreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F40263472310069FCAF /* BuscadorMercadoLibreUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		7EA95F32263472310069FCAF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 7EA95F132634722E0069FCAF /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7EA95F1A2634722E0069FCAF;
-			remoteInfo = BuscadorMercadoLibre;
-		};
-		7EA95F3D263472310069FCAF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 7EA95F132634722E0069FCAF /* Project object */;
 			proxyType = 1;
@@ -46,7 +38,6 @@
 		7EA95F31263472310069FCAF /* BuscadorMercadoLibreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuscadorMercadoLibreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F35263472310069FCAF /* BuscadorMercadoLibreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuscadorMercadoLibreTests.swift; sourceTree = "<group>"; };
 		7EA95F37263472310069FCAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EA95F3C263472310069FCAF /* BuscadorMercadoLibreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuscadorMercadoLibreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F40263472310069FCAF /* BuscadorMercadoLibreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuscadorMercadoLibreUITests.swift; sourceTree = "<group>"; };
 		7EA95F42263472310069FCAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,13 +51,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		7EA95F2E263472310069FCAF /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7EA95F39263472310069FCAF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -91,7 +75,6 @@
 			children = (
 				7EA95F1B2634722E0069FCAF /* BuscadorMercadoLibre.app */,
 				7EA95F31263472310069FCAF /* BuscadorMercadoLibreTests.xctest */,
-				7EA95F3C263472310069FCAF /* BuscadorMercadoLibreUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -166,24 +149,6 @@
 			productReference = 7EA95F31263472310069FCAF /* BuscadorMercadoLibreTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7EA95F3B263472310069FCAF /* BuscadorMercadoLibreUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7EA95F4B263472310069FCAF /* Build configuration list for PBXNativeTarget "BuscadorMercadoLibreUITests" */;
-			buildPhases = (
-				7EA95F38263472310069FCAF /* Sources */,
-				7EA95F39263472310069FCAF /* Frameworks */,
-				7EA95F3A263472310069FCAF /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				7EA95F3E263472310069FCAF /* PBXTargetDependency */,
-			);
-			name = BuscadorMercadoLibreUITests;
-			productName = BuscadorMercadoLibreUITests;
-			productReference = 7EA95F3C263472310069FCAF /* BuscadorMercadoLibreUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -197,10 +162,6 @@
 						CreatedOnToolsVersion = 12.4;
 					};
 					7EA95F30263472310069FCAF = {
-						CreatedOnToolsVersion = 12.4;
-						TestTargetID = 7EA95F1A2634722E0069FCAF;
-					};
-					7EA95F3B263472310069FCAF = {
 						CreatedOnToolsVersion = 12.4;
 						TestTargetID = 7EA95F1A2634722E0069FCAF;
 					};
@@ -221,7 +182,6 @@
 			targets = (
 				7EA95F1A2634722E0069FCAF /* BuscadorMercadoLibre */,
 				7EA95F30263472310069FCAF /* BuscadorMercadoLibreTests */,
-				7EA95F3B263472310069FCAF /* BuscadorMercadoLibreUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -238,13 +198,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		7EA95F2F263472310069FCAF /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7EA95F3A263472310069FCAF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -272,14 +225,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7EA95F38263472310069FCAF /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7EA95F41263472310069FCAF /* BuscadorMercadoLibreUITests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -287,11 +232,6 @@
 			isa = PBXTargetDependency;
 			target = 7EA95F1A2634722E0069FCAF /* BuscadorMercadoLibre */;
 			targetProxy = 7EA95F32263472310069FCAF /* PBXContainerItemProxy */;
-		};
-		7EA95F3E263472310069FCAF /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7EA95F1A2634722E0069FCAF /* BuscadorMercadoLibre */;
-			targetProxy = 7EA95F3D263472310069FCAF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -513,46 +453,6 @@
 			};
 			name = Release;
 		};
-		7EA95F4C263472310069FCAF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PX67L97P4V;
-				INFOPLIST_FILE = BuscadorMercadoLibreUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tobiaslewinzon.BuscadorMercadoLibreUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = BuscadorMercadoLibre;
-			};
-			name = Debug;
-		};
-		7EA95F4D263472310069FCAF /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PX67L97P4V;
-				INFOPLIST_FILE = BuscadorMercadoLibreUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tobiaslewinzon.BuscadorMercadoLibreUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = BuscadorMercadoLibre;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -579,15 +479,6 @@
 			buildConfigurations = (
 				7EA95F49263472310069FCAF /* Debug */,
 				7EA95F4A263472310069FCAF /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		7EA95F4B263472310069FCAF /* Build configuration list for PBXNativeTarget "BuscadorMercadoLibreUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7EA95F4C263472310069FCAF /* Debug */,
-				7EA95F4D263472310069FCAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
