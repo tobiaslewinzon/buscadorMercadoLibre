@@ -3,10 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2227357E7A3C5EF02D4B27FF /* Pods_BuscadorMercadoLibreTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F267729A8995B5A3209DD57 /* Pods_BuscadorMercadoLibreTests.framework */; };
+		37C81B8F9C21242F4E0C7081 /* Pods_BuscadorMercadoLibre.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D417911EE7E526CED68996C /* Pods_BuscadorMercadoLibre.framework */; };
 		7EA95F1F2634722E0069FCAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F1E2634722E0069FCAF /* AppDelegate.swift */; };
 		7EA95F212634722E0069FCAF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F202634722E0069FCAF /* SceneDelegate.swift */; };
 		7EA95F232634722E0069FCAF /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F222634722E0069FCAF /* SearchViewController.swift */; };
@@ -26,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D417911EE7E526CED68996C /* Pods_BuscadorMercadoLibre.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BuscadorMercadoLibre.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F1B2634722E0069FCAF /* BuscadorMercadoLibre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BuscadorMercadoLibre.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F1E2634722E0069FCAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EA95F202634722E0069FCAF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -36,8 +39,11 @@
 		7EA95F31263472310069FCAF /* BuscadorMercadoLibreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuscadorMercadoLibreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F35263472310069FCAF /* BuscadorMercadoLibreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuscadorMercadoLibreTests.swift; sourceTree = "<group>"; };
 		7EA95F37263472310069FCAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EA95F40263472310069FCAF /* BuscadorMercadoLibreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuscadorMercadoLibreUITests.swift; sourceTree = "<group>"; };
-		7EA95F42263472310069FCAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E6A883E3A092299AC11E57E /* Pods-BuscadorMercadoLibre.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuscadorMercadoLibre.debug.xcconfig"; path = "Target Support Files/Pods-BuscadorMercadoLibre/Pods-BuscadorMercadoLibre.debug.xcconfig"; sourceTree = "<group>"; };
+		8F267729A8995B5A3209DD57 /* Pods_BuscadorMercadoLibreTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BuscadorMercadoLibreTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		91D3E84B0D700205778B4323 /* Pods-BuscadorMercadoLibre.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuscadorMercadoLibre.release.xcconfig"; path = "Target Support Files/Pods-BuscadorMercadoLibre/Pods-BuscadorMercadoLibre.release.xcconfig"; sourceTree = "<group>"; };
+		9961A56B3C69D57E2642971D /* Pods-BuscadorMercadoLibreTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuscadorMercadoLibreTests.release.xcconfig"; path = "Target Support Files/Pods-BuscadorMercadoLibreTests/Pods-BuscadorMercadoLibreTests.release.xcconfig"; sourceTree = "<group>"; };
+		A11AF7DBFE5DE7299AFD448C /* Pods-BuscadorMercadoLibreTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuscadorMercadoLibreTests.debug.xcconfig"; path = "Target Support Files/Pods-BuscadorMercadoLibreTests/Pods-BuscadorMercadoLibreTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37C81B8F9C21242F4E0C7081 /* Pods_BuscadorMercadoLibre.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,12 +59,33 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2227357E7A3C5EF02D4B27FF /* Pods_BuscadorMercadoLibreTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4501514A9F1E7CDBA4F5204E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8E6A883E3A092299AC11E57E /* Pods-BuscadorMercadoLibre.debug.xcconfig */,
+				91D3E84B0D700205778B4323 /* Pods-BuscadorMercadoLibre.release.xcconfig */,
+				A11AF7DBFE5DE7299AFD448C /* Pods-BuscadorMercadoLibreTests.debug.xcconfig */,
+				9961A56B3C69D57E2642971D /* Pods-BuscadorMercadoLibreTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		6F20392F312C421CE2A535ED /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5D417911EE7E526CED68996C /* Pods_BuscadorMercadoLibre.framework */,
+				8F267729A8995B5A3209DD57 /* Pods_BuscadorMercadoLibreTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		7E32211F26347748000A865A /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
@@ -90,8 +118,9 @@
 			children = (
 				7EA95F1D2634722E0069FCAF /* BuscadorMercadoLibre */,
 				7EA95F34263472310069FCAF /* BuscadorMercadoLibreTests */,
-				7EA95F3F263472310069FCAF /* BuscadorMercadoLibreUITests */,
 				7EA95F1C2634722E0069FCAF /* Products */,
+				4501514A9F1E7CDBA4F5204E /* Pods */,
+				6F20392F312C421CE2A535ED /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,15 +152,6 @@
 			path = BuscadorMercadoLibreTests;
 			sourceTree = "<group>";
 		};
-		7EA95F3F263472310069FCAF /* BuscadorMercadoLibreUITests */ = {
-			isa = PBXGroup;
-			children = (
-				7EA95F40263472310069FCAF /* BuscadorMercadoLibreUITests.swift */,
-				7EA95F42263472310069FCAF /* Info.plist */,
-			);
-			path = BuscadorMercadoLibreUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,9 +159,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7EA95F45263472310069FCAF /* Build configuration list for PBXNativeTarget "BuscadorMercadoLibre" */;
 			buildPhases = (
+				D9EB6796FA13800C7FA19F70 /* [CP] Check Pods Manifest.lock */,
 				7EA95F172634722E0069FCAF /* Sources */,
 				7EA95F182634722E0069FCAF /* Frameworks */,
 				7EA95F192634722E0069FCAF /* Resources */,
+				5BDE3103A4B456FE9C3BD8BB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -156,6 +178,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7EA95F48263472310069FCAF /* Build configuration list for PBXNativeTarget "BuscadorMercadoLibreTests" */;
 			buildPhases = (
+				59619ED0EDC702821B0B66E9 /* [CP] Check Pods Manifest.lock */,
 				7EA95F2D263472310069FCAF /* Sources */,
 				7EA95F2E263472310069FCAF /* Frameworks */,
 				7EA95F2F263472310069FCAF /* Resources */,
@@ -225,6 +248,70 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		59619ED0EDC702821B0B66E9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BuscadorMercadoLibreTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5BDE3103A4B456FE9C3BD8BB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BuscadorMercadoLibre/Pods-BuscadorMercadoLibre-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BuscadorMercadoLibre/Pods-BuscadorMercadoLibre-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BuscadorMercadoLibre/Pods-BuscadorMercadoLibre-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D9EB6796FA13800C7FA19F70 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BuscadorMercadoLibre-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		7EA95F172634722E0069FCAF /* Sources */ = {
@@ -385,6 +472,7 @@
 		};
 		7EA95F46263472310069FCAF /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E6A883E3A092299AC11E57E /* Pods-BuscadorMercadoLibre.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -404,6 +492,7 @@
 		};
 		7EA95F47263472310069FCAF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 91D3E84B0D700205778B4323 /* Pods-BuscadorMercadoLibre.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -423,6 +512,7 @@
 		};
 		7EA95F49263472310069FCAF /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A11AF7DBFE5DE7299AFD448C /* Pods-BuscadorMercadoLibreTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -445,6 +535,7 @@
 		};
 		7EA95F4A263472310069FCAF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9961A56B3C69D57E2642971D /* Pods-BuscadorMercadoLibreTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";

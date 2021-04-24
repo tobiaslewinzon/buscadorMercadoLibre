@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import OHHTTPStubs
 @testable import BuscadorMercadoLibre
 
 class BuscadorMercadoLibreTests: XCTestCase {
