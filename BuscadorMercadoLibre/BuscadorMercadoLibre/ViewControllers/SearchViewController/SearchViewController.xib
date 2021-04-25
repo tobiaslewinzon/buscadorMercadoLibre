@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SearchViewController" customModule="BuscadorMercadoLibre" customModuleProvider="target">
+            <connections>
+                <outlet property="containerView" destination="fcl-U9-vEO" id="lHN-Gz-Qsb"/>
+                <outlet property="containerViewCenterYAnchor" destination="eHZ-B0-6pU" id="y7C-ov-w5Y"/>
+                <outlet property="containerViewTopAnchor" destination="YB5-BM-DMJ" id="n44-wP-g6h"/>
+                <outlet property="searchButton" destination="Raw-pi-6Wg" id="ahj-Cq-LmW"/>
+                <outlet property="searchTextField" destination="otX-Wh-F15" id="Qo6-5X-L0A"/>
+                <outlet property="view" destination="iN0-l3-epB" id="cqg-ML-6bt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fcl-U9-vEO" userLabel="containerVew">
+                    <rect key="frame" x="57" y="194" width="300" height="518"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mercadoLibreLogo" translatesAutoresizingMaskIntoConstraints="NO" id="Kd0-wE-oJs">
+                            <rect key="frame" x="0.0" y="0.0" width="300" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="300" id="BJP-nh-ODa"/>
+                                <constraint firstAttribute="height" constant="60" id="Vgk-UC-iJK"/>
+                            </constraints>
+                        </imageView>
+                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="otX-Wh-F15" userLabel="searchTextField">
+                            <rect key="frame" x="0.0" y="90" width="300" height="34"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="34" id="Cjh-np-us3"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </textField>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Raw-pi-6Wg" userLabel="searchButton">
+                            <rect key="frame" x="0.0" y="154" width="300" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="300" id="5Od-PB-phx"/>
+                                <constraint firstAttribute="height" constant="40" id="Mcv-0S-w1D"/>
+                            </constraints>
+                            <state key="normal" title="Buscar"/>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="Kd0-wE-oJs" firstAttribute="centerX" secondItem="fcl-U9-vEO" secondAttribute="centerX" id="0ul-Ib-qBJ"/>
+                        <constraint firstAttribute="height" priority="250" constant="214" id="5Vm-Io-jrC"/>
+                        <constraint firstItem="Kd0-wE-oJs" firstAttribute="top" secondItem="fcl-U9-vEO" secondAttribute="top" id="H5S-J1-aLX"/>
+                        <constraint firstAttribute="width" constant="300" id="OCK-rm-rta"/>
+                        <constraint firstAttribute="trailing" secondItem="otX-Wh-F15" secondAttribute="trailing" id="PdQ-Q9-aky"/>
+                        <constraint firstItem="Raw-pi-6Wg" firstAttribute="top" secondItem="otX-Wh-F15" secondAttribute="bottom" constant="30" id="XKW-Be-S3l"/>
+                        <constraint firstAttribute="trailing" secondItem="Raw-pi-6Wg" secondAttribute="trailing" id="kT9-ck-VhE"/>
+                        <constraint firstItem="otX-Wh-F15" firstAttribute="leading" secondItem="fcl-U9-vEO" secondAttribute="leading" id="lag-HL-Y9U"/>
+                        <constraint firstItem="Raw-pi-6Wg" firstAttribute="leading" secondItem="fcl-U9-vEO" secondAttribute="leading" id="rLe-UZ-aQ4"/>
+                        <constraint firstItem="otX-Wh-F15" firstAttribute="top" secondItem="Kd0-wE-oJs" secondAttribute="bottom" constant="30" id="zd9-Ip-zv9"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="fcl-U9-vEO" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="6O9-Hm-Pcl"/>
+                <constraint firstItem="fcl-U9-vEO" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="150" id="YB5-BM-DMJ"/>
+                <constraint firstItem="fcl-U9-vEO" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="eHZ-B0-6pU"/>
+            </constraints>
+            <point key="canvasLocation" x="137.68115942028987" y="152.67857142857142"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="mercadoLibreLogo" width="1166.5" height="286.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
