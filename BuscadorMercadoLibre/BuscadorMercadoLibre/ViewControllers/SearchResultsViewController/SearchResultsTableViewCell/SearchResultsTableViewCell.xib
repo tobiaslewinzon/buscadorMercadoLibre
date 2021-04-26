@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="searchResultsTableViewCell" rowHeight="200" id="2fK-qN-cf9" customClass="SearchResultsTableViewCell" customModule="BuscadorMercadoLibre" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="2fK-qN-cf9" id="8IU-9N-iYs">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="200"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="4yL-tS-TUi" userLabel="thumbnailImageView">
+                        <rect key="frame" x="8" y="8" width="184" height="184"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="184" id="WSP-hC-9uz"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iPhone 12 Pro Max 128gb Space Gray con accesorios" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="smD-Hr-Mp2" userLabel="titleLabel">
+                        <rect key="frame" x="200" y="8" width="206" height="31.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$256.000" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mO5-wc-egx" userLabel="priceLabel">
+                        <rect key="frame" x="200" y="59.5" width="92.5" height="25.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Envio gratis" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4qj-BN-Yl0" userLabel="shippingLabel">
+                        <rect key="frame" x="200" y="105" width="71" height="16"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="smD-Hr-Mp2" firstAttribute="top" secondItem="8IU-9N-iYs" secondAttribute="top" constant="8" id="1Fx-SJ-Jo8"/>
+                    <constraint firstItem="4yL-tS-TUi" firstAttribute="leading" secondItem="8IU-9N-iYs" secondAttribute="leading" constant="8" id="792-bP-Iew"/>
+                    <constraint firstItem="mO5-wc-egx" firstAttribute="leading" secondItem="4yL-tS-TUi" secondAttribute="trailing" constant="8" id="IVu-Yp-h4j"/>
+                    <constraint firstItem="4yL-tS-TUi" firstAttribute="top" secondItem="8IU-9N-iYs" secondAttribute="top" constant="8" id="O9e-z1-3MN"/>
+                    <constraint firstItem="smD-Hr-Mp2" firstAttribute="leading" secondItem="4yL-tS-TUi" secondAttribute="trailing" constant="8" id="XVO-E2-0N1"/>
+                    <constraint firstItem="4qj-BN-Yl0" firstAttribute="top" secondItem="mO5-wc-egx" secondAttribute="bottom" constant="20" id="b0n-Qn-lhn"/>
+                    <constraint firstItem="mO5-wc-egx" firstAttribute="top" secondItem="smD-Hr-Mp2" secondAttribute="bottom" constant="20" id="e4r-lv-Nd1"/>
+                    <constraint firstAttribute="bottom" secondItem="4yL-tS-TUi" secondAttribute="bottom" constant="8" id="kjG-ee-nEU"/>
+                    <constraint firstAttribute="trailing" secondItem="smD-Hr-Mp2" secondAttribute="trailing" constant="8" id="xJX-oZ-T5U"/>
+                    <constraint firstItem="4qj-BN-Yl0" firstAttribute="leading" secondItem="4yL-tS-TUi" secondAttribute="trailing" constant="8" id="yL6-UL-z41"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="priceLabel" destination="mO5-wc-egx" id="PoP-96-FB2"/>
+                <outlet property="shippingLabel" destination="4qj-BN-Yl0" id="zWx-yo-sqn"/>
+                <outlet property="thumbNailImageView" destination="4yL-tS-TUi" id="JMm-Cq-omH"/>
+                <outlet property="titleLabel" destination="smD-Hr-Mp2" id="D5B-dC-lf1"/>
+            </connections>
+            <point key="canvasLocation" x="-58" y="-163"/>
+        </tableViewCell>
+    </objects>
+</document>

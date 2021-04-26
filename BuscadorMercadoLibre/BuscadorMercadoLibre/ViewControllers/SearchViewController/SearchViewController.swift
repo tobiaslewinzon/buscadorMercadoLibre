@@ -9,9 +9,12 @@ import UIKit
 
 class SearchViewController: UIViewController {
     
+    var viewModel: SearchViewModel?
+    
     // MARK: - Initialization
     init() {
         super.init(nibName: "SearchViewController", bundle: nil)
+        viewModel = SearchViewModel(delegate: self)
     }
     
     required init?(coder: NSCoder) {
@@ -92,6 +95,28 @@ class SearchViewController: UIViewController {
         searchButton.isEnabled = false
     }
     
+    // MARK: - IBActions
+    @IBAction func searchAction(_ sender: Any) {
+        guard let query = searchTextField.text else {
+            return
+        }
+        
+        viewModel?.performSearch(query: query)
+    }
+    
+    // MARK: - Miscellaneous methods
+    /// Navigates to search results list.
+    private func navigateToSearchResults() {
+        // Use SearchResultsViewController as root ViewController.
+        let searchResultsViewController = SearchResultsViewController()
+        let navigationController = UINavigationController(rootViewController: searchResultsViewController)
+        
+        // Configure presentation style as full screen and navigate.
+        navigationController.modalPresentationStyle = .fullScreen
+        navigationController.overrideUserInterfaceStyle = .light
+        self.present(navigationController, animated: true, completion: nil)
+    }
+    
     // MARK: - Listener methods
     /// Reacts to device orientation change.
     @objc func orientationDidChange() {
@@ -142,4 +167,15 @@ class SearchViewController: UIViewController {
 // MARK: - UITextFieldDelegate
 extension SearchViewController: UITextFieldDelegate {
     
+}
+
+// MARK: - SearchViewModelDelegate
+extension SearchViewController: SearchViewModelDelegate {
+    func searchResultsReady() {
+        navigateToSearchResults()
+    }
+    
+    func searchFailed() {
+        
+    }
 }

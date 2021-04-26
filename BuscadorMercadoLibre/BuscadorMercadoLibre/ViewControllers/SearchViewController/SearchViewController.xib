@@ -48,6 +48,9 @@
                                 <constraint firstAttribute="height" constant="40" id="Mcv-0S-w1D"/>
                             </constraints>
                             <state key="normal" title="Buscar"/>
+                            <connections>
+                                <action selector="searchAction:" destination="-1" eventType="touchUpInside" id="BV1-ea-6mw"/>
+                            </connections>
                         </button>
                     </subviews>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
