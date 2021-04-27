@@ -1,5 +1,8 @@
 PODS:
   - Alamofire (5.4.2)
+  - CocoaLumberjack/Core (3.7.2)
+  - CocoaLumberjack/Swift (3.7.2):
+    - CocoaLumberjack/Core
   - OHHTTPStubs/Core (9.1.0)
   - OHHTTPStubs/Default (9.1.0):
     - OHHTTPStubs/Core
@@ -16,17 +19,20 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
+  - CocoaLumberjack/Swift
   - OHHTTPStubs/Swift
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - CocoaLumberjack
     - OHHTTPStubs
 
 SPEC CHECKSUMS:
   Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  CocoaLumberjack: b7e05132ff94f6ae4dfa9d5bce9141893a21d9da
   OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
 
-PODFILE CHECKSUM: d4e687bd00ba91f9f66a0bce1d6f5300831f8beb
+PODFILE CHECKSUM: 1b3c926ecd142a47964773c267243f3ac8209a7a
 
 COCOAPODS: 1.10.0

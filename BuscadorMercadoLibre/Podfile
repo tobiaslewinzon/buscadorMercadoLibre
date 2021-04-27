@@ -9,6 +9,7 @@ target 'BuscadorMercadoLibre' do
 
 pod 'OHHTTPStubs/Swift'
 pod 'Alamofire'
+pod 'CocoaLumberjack/Swift'
 
   target 'BuscadorMercadoLibreTests' do
     inherit! :search_paths

@@ -6,6 +6,9 @@
 //
 
 import UIKit
+import CocoaLumberjack
+
+
 
 class SearchViewController: UIViewController {
     
@@ -175,7 +178,7 @@ extension SearchViewController: SearchViewModelDelegate {
         navigateToSearchResults()
     }
     
-    func searchFailed() {
+    func searchFailed(errorDescription: String) {
         
     }
 }
