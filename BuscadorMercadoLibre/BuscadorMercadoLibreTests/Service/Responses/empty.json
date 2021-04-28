@@ -1,0 +1,26 @@
+{
+    "site_id": "MLA",
+    "query": "jqjsusususuuakakajdjdj",
+    "paging": {
+        "total": 0,
+        "primary_results": 1000,
+        "offset": 0,
+        "limit": 20
+    },
+    "results": [],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "More relevant"
+    },
+    "available_sorts": [{
+        "id": "price_asc",
+        "name": "Lower price"
+    }, {
+        "id": "price_desc",
+        "name": "Higher price"
+    }],
+    "filters": [],
+    "available_filters": []
+}

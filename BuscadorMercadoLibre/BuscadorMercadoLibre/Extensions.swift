@@ -38,3 +38,19 @@ extension UIView {
         return strongSuperview.convert(self.frame, to: rootViewController)
     }
 }
+
+// MARK: - Double extension
+extension Double {
+    
+    /// Returns dobule as a string, in decimal format "20.500,89".
+    func withCommas() -> String {
+        let numberFormatter = NumberFormatter()
+        numberFormatter.numberStyle = .decimal
+        return numberFormatter.string(from: NSNumber(value:self))!
+    }
+}
+
+// MARK: - Notification extension
+extension Notification {
+    static let readyNotification = Notification(name: NSNotification.Name("searchResultsReady"), object: nil)
+}

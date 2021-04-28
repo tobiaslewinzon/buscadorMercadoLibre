@@ -1,0 +1,6112 @@
+{
+	"site_id": "MLA",
+	"query": "macbook",
+	"paging": {
+		"total": 3360,
+		"primary_results": 1000,
+		"offset": 0,
+		"limit": 20
+	},
+	"results": [{
+		"id": "MLA918171240",
+		"site_id": "MLA",
+		"title": "Macbook Air A1466 Silver 13.3 , Intel Core I5 5350u 8gb De Ram 128gb Ssd, Intel Hd Graphics 6000 1440x900px Macos Sierra 10",
+		"seller": {
+			"id": 608846165,
+			"permalink": "http://perfil.mercadolibre.com.ar/1P+CE_FLA",
+			"registration_date": "2020-07-13T13:21:30.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["brand", "user_info_verified", "large_seller", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 363767,
+					"canceled": 16686,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 347081
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0087,
+						"value": 945,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 103005
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 149999,
+		"prices": {
+			"id": "MLA918171240",
+			"prices": [{
+				"id": "2",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 149999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-27T14:29:36Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 933,
+		"sold_quantity": 18,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2041-04-22T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a1466-silver-133-intel-core-i5-5350u-8gb-de-ram-128gb-ssd-intel-hd-graphics-6000-1440x900px-macos-sierra-10/p/MLA15306717",
+		"thumbnail": "http://http2.mlstatic.com/D_722803-MLA42901955282_072020-I.jpg",
+		"thumbnail_id": "722803-MLA42901955282_072020",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 16666.56,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Villa Celina"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa Celina"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"id": "BRAND",
+			"name": "Marca",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"value_id": "9344",
+			"value_name": "Apple",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 1
+		}, {
+			"attribute_group_id": "OTHERS",
+			"name": "Modelo detallado",
+			"values": [{
+				"id": "7955538",
+				"name": "MQD32LL/A",
+				"struct": null,
+				"source": 1
+			}],
+			"value_name": "MQD32LL/A",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "DETAILED_MODEL",
+			"value_id": "7955538"
+		}, {
+			"id": "ITEM_CONDITION",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"source": 8748668969142,
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"values": [{
+				"name": "Nuevo",
+				"struct": null,
+				"source": 8748668969142,
+				"id": "2230284"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"value_struct": null,
+			"name": "Modelo",
+			"value_id": "7955537",
+			"value_name": "A1466",
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "7955537",
+				"name": "A1466"
+			}],
+			"id": "MODEL"
+		}, {
+			"value_name": "42.8 cm",
+			"value_struct": {
+				"number": 42.8,
+				"unit": "cm"
+			},
+			"source": 1,
+			"id": "PACKAGE_LENGTH",
+			"value_id": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"name": "Largo del paquete",
+			"values": [{
+				"id": null,
+				"name": "42.8 cm",
+				"struct": {
+					"number": 42.8,
+					"unit": "cm"
+				},
+				"source": 1
+			}]
+		}, {
+			"id": "PACKAGE_WEIGHT",
+			"name": "Peso del paquete",
+			"attribute_group_id": "OTHERS",
+			"value_id": null,
+			"value_name": "2840 g",
+			"value_struct": {
+				"number": 2840,
+				"unit": "g"
+			},
+			"values": [{
+				"source": 1,
+				"id": null,
+				"name": "2840 g",
+				"struct": {
+					"number": 2840,
+					"unit": "g"
+				}
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"value_struct": null,
+			"values": [{
+				"name": "Intel",
+				"struct": null,
+				"source": 1,
+				"id": "7855833"
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"attribute_group_id": "OTHERS",
+			"value_id": "7855833",
+			"value_name": "Intel"
+		}, {
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"attribute_group_name": "Otros",
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null
+		}, {
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "7955540",
+				"name": "5350U"
+			}],
+			"attribute_group_name": "Otros",
+			"name": "Modelo del procesador",
+			"value_name": "5350U",
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "PROCESSOR_MODEL",
+			"value_id": "7955540"
+		}, {
+			"id": "WEIGHT",
+			"name": "Peso",
+			"values": [{
+				"id": "1130924",
+				"name": "1.3 kg",
+				"struct": {
+					"number": 1.3,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"value_id": "1130924",
+			"value_name": "1.3 kg",
+			"value_struct": {
+				"unit": "kg",
+				"number": 1.3
+			},
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": 1938,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15306717",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "shipping_guaranteed", "best_seller_candidate"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 1
+	}, {
+		"id": "MLA913602478",
+		"site_id": "MLA",
+		"title": "Macbook Air A2179 Space Gray 13.3 , Intel Core I3 1000ng4 8gb De Ram 256gb Ssd, Intel Iris Plus Graphics 2560x1600px Macos X 10",
+		"seller": {
+			"id": 44778367,
+			"permalink": "http://perfil.mercadolibre.com.ar/EAGLETECHNOLOGY",
+			"registration_date": "2011-01-27T21:19:28.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "credits_profile", "mshops", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "EAGLETECHNOLOGY",
+				"eshop_rubro": null,
+				"eshop_id": 96029,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/44778367v11d199.png",
+				"eshop_status_id": 1,
+				"seller": 44778367,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 8079,
+					"canceled": 397,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.99,
+						"neutral": 0
+					},
+					"completed": 7682
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0066,
+						"value": 11,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0012,
+						"value": 2,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 1602
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 1,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 150999,
+		"prices": {
+			"id": "MLA913602478",
+			"prices": [{
+				"id": "8",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 150999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-22T18:50:46Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 4,
+		"sold_quantity": 5,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-03-25T17:00:40.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a2179-space-gray-133-intel-core-i3-1000ng4-8gb-de-ram-256gb-ssd-intel-iris-plus-graphics-2560x1600px-macos-x-10/p/MLA15913939",
+		"thumbnail": "http://http2.mlstatic.com/D_634037-MLA44926138616_022021-I.jpg",
+		"thumbnail_id": "634037-MLA44926138616_022021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21412.92,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlZJTDYzNzZa",
+			"city_name": "Villa Devoto"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "self_service_out", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlZJTDYzNzZa",
+				"name": "Villa Devoto"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_name": "Apple",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"name": "Marca",
+			"value_id": "9344",
+			"id": "BRAND",
+			"source": 1
+		}, {
+			"id": "DETAILED_MODEL",
+			"value_id": "8773477",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Modelo detallado",
+			"value_name": "MWTJ2LL/A",
+			"values": [{
+				"id": "8773477",
+				"name": "MWTJ2LL/A",
+				"struct": null,
+				"source": 1
+			}]
+		}, {
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"values": [{
+				"source": 6808261514773724,
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null
+			}],
+			"source": 6808261514773724,
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION"
+		}, {
+			"id": "LINE",
+			"name": "Línea",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"attribute_group_id": "OTHERS",
+			"source": 1
+		}, {
+			"id": "MODEL",
+			"value_name": "A2179",
+			"source": 1,
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_struct": null
+		}, {
+			"value_struct": {
+				"number": 32.2,
+				"unit": "cm"
+			},
+			"attribute_group_id": "OTHERS",
+			"id": "PACKAGE_LENGTH",
+			"name": "Largo del paquete",
+			"value_id": null,
+			"value_name": "32.2 cm",
+			"values": [{
+				"id": null,
+				"name": "32.2 cm",
+				"struct": {
+					"unit": "cm",
+					"number": 32.2
+				},
+				"source": 4333789534002961
+			}],
+			"attribute_group_name": "Otros",
+			"source": 4333789534002961
+		}, {
+			"attribute_group_name": "Otros",
+			"source": 4333789534002961,
+			"value_id": null,
+			"attribute_group_id": "OTHERS",
+			"value_name": "2000 g",
+			"value_struct": {
+				"number": 2000,
+				"unit": "g"
+			},
+			"values": [{
+				"id": null,
+				"name": "2000 g",
+				"struct": {
+					"number": 2000,
+					"unit": "g"
+				},
+				"source": 4333789534002961
+			}],
+			"id": "PACKAGE_WEIGHT",
+			"name": "Peso del paquete"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "7855833",
+				"name": "Intel"
+			}],
+			"id": "PROCESSOR_BRAND",
+			"attribute_group_name": "Otros"
+		}, {
+			"name": "Línea del procesador",
+			"value_id": "7769179",
+			"values": [{
+				"name": "Core i3",
+				"struct": null,
+				"source": 1,
+				"id": "7769179"
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "PROCESSOR_LINE",
+			"value_name": "Core i3",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "8773479",
+			"value_name": "1000NG4",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "PROCESSOR_MODEL",
+			"value_struct": null,
+			"values": [{
+				"name": "1000NG4",
+				"struct": null,
+				"source": 1,
+				"id": "8773479"
+			}],
+			"attribute_group_id": "OTHERS",
+			"name": "Modelo del procesador"
+		}, {
+			"value_name": "1.29 kg",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"name": "Peso",
+			"value_id": "7212862",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "WEIGHT"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913939",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 2
+	}, {
+		"id": "MLA914939715",
+		"site_id": "MLA",
+		"title": "Macbook Air A2179 Silver 13.3 , Intel Core I3 1000ng4 8gb De Ram 256gb Ssd, Intel Iris Plus Graphics 2560x1600px Macos X 10",
+		"seller": {
+			"id": 82274172,
+			"permalink": "http://perfil.mercadolibre.com.ar/BH+COMPUTACION",
+			"registration_date": "2005-07-04T10:41:06.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_priority_4", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "BH COMPUTACION",
+				"eshop_rubro": null,
+				"eshop_id": 30100,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/82274172.jpg",
+				"eshop_status_id": 2,
+				"seller": 82274172,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 27161,
+					"canceled": 1031,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.98,
+						"neutral": 0.01
+					},
+					"completed": 26130
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0071,
+						"value": 25,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0322,
+						"value": 106,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 3359
+					},
+					"cancellations": {
+						"rate": 0.002,
+						"value": 7,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 152000,
+		"prices": {
+			"id": "MLA914939715",
+			"prices": [{
+				"id": "2",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 152000,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-15T16:02:09Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 5,
+		"sold_quantity": 5,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-04-01T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a2179-silver-133-intel-core-i3-1000ng4-8gb-de-ram-256gb-ssd-intel-iris-plus-graphics-2560x1600px-macos-x-10/p/MLA15913940",
+		"thumbnail": "http://http2.mlstatic.com/D_955205-MLA44925999950_022021-I.jpg",
+		"thumbnail_id": "955205-MLA44925999950_022021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21554.87,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjgzMjRa",
+			"city_name": "San Nicolás"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjgzMjRa",
+				"name": "San Nicolás"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"name": "Marca",
+			"value_id": "9344",
+			"value_name": "Apple",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"source": 1,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}]
+		}, {
+			"id": "DETAILED_MODEL",
+			"name": "Modelo detallado",
+			"values": [{
+				"id": "8773480",
+				"name": "MWTK2LL/A",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"value_id": "8773480",
+			"value_name": "MWTK2LL/A",
+			"value_struct": null,
+			"source": 1
+		}, {
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"id": "ITEM_CONDITION",
+			"value_name": "Nuevo",
+			"value_struct": null
+		}, {
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_name": "A2179",
+			"value_struct": null,
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "MODEL",
+			"attribute_group_id": "OTHERS"
+		}, {
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"values": [{
+				"source": 1,
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null
+			}],
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 1
+		}, {
+			"value_struct": null,
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"name": "Línea del procesador",
+			"value_id": "7769179",
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"value_name": "Core i3"
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_MODEL",
+			"name": "Modelo del procesador",
+			"value_name": "1000NG4",
+			"values": [{
+				"source": 1,
+				"id": "8773479",
+				"name": "1000NG4",
+				"struct": null
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_id": "8773479",
+			"value_struct": null,
+			"source": 1
+		}, {
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"name": "Peso",
+			"value_name": "1.29 kg",
+			"source": 1,
+			"value_id": "7212862",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"attribute_group_id": "OTHERS"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913940",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 3
+	}, {
+		"id": "MLA914939658",
+		"site_id": "MLA",
+		"title": "Macbook Air A2179 Gold 13.3 , Intel Core I3 1000ng4 8gb De Ram 256gb Ssd, Intel Iris Plus Graphics 2560x1600px Macos X 10",
+		"seller": {
+			"id": 82274172,
+			"permalink": "http://perfil.mercadolibre.com.ar/BH+COMPUTACION",
+			"registration_date": "2005-07-04T10:41:06.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_priority_4", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "BH COMPUTACION",
+				"eshop_rubro": null,
+				"eshop_id": 30100,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/82274172.jpg",
+				"eshop_status_id": 2,
+				"seller": 82274172,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 27161,
+					"canceled": 1031,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.98,
+						"neutral": 0.01
+					},
+					"completed": 26130
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0071,
+						"value": 25,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0322,
+						"value": 106,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 3359
+					},
+					"cancellations": {
+						"rate": 0.002,
+						"value": 7,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 152000,
+		"prices": {
+			"id": "MLA914939658",
+			"prices": [{
+				"id": "4",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 152000,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-15T16:00:43Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 4,
+		"sold_quantity": 6,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-04-01T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a2179-gold-133-intel-core-i3-1000ng4-8gb-de-ram-256gb-ssd-intel-iris-plus-graphics-2560x1600px-macos-x-10/p/MLA15913941",
+		"thumbnail": "http://http2.mlstatic.com/D_916248-MLA44926138471_022021-I.jpg",
+		"thumbnail_id": "916248-MLA44926138471_022021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21554.87,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjgzMjRa",
+			"city_name": "San Nicolás"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjgzMjRa",
+				"name": "San Nicolás"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"source": 1,
+			"value_id": "9344",
+			"value_name": "Apple",
+			"value_struct": null,
+			"values": [{
+				"name": "Apple",
+				"struct": null,
+				"source": 1,
+				"id": "9344"
+			}],
+			"id": "BRAND",
+			"name": "Marca",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"value_id": "8773482",
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "8773482",
+				"name": "MWTL2LL/A"
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "DETAILED_MODEL",
+			"name": "Modelo detallado",
+			"value_name": "MWTL2LL/A",
+			"attribute_group_name": "Otros"
+		}, {
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_name": "Otros",
+			"value_struct": null,
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"attribute_group_id": "OTHERS",
+			"source": 3045741222775799,
+			"id": "ITEM_CONDITION"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Línea",
+			"value_id": "95565",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"id": "LINE",
+			"value_name": "MacBook Air"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_struct": null,
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 1
+			}],
+			"value_name": "A2179",
+			"attribute_group_name": "Otros"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"value_struct": null,
+			"values": [{
+				"name": "Intel",
+				"struct": null,
+				"source": 1,
+				"id": "7855833"
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"value_name": "Core i3",
+			"attribute_group_name": "Otros",
+			"value_id": "7769179",
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "PROCESSOR_LINE"
+		}, {
+			"value_struct": null,
+			"values": [{
+				"id": "8773479",
+				"name": "1000NG4",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Modelo del procesador",
+			"value_name": "1000NG4",
+			"id": "PROCESSOR_MODEL",
+			"value_id": "8773479"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"value_name": "1.29 kg",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"source": 1,
+			"name": "Peso",
+			"value_id": "7212862",
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 1
+			}]
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913941",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 4
+	}, {
+		"id": "MLA915184160",
+		"site_id": "MLA",
+		"title": "Macbook Air A1932 (true Tone 2019) Space Gray 13 , Intel Core I5 8210y 8gb De Ram 256gb Ssd, Intel Uhd Graphics 617 60 Hz 2560x1600px Macos X 10",
+		"seller": {
+			"id": 60246795,
+			"permalink": "http://perfil.mercadolibre.com.ar/MAURICOMPUTACION",
+			"registration_date": "2008-10-29T17:26:12.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "MAURICOMPUTACION",
+				"eshop_rubro": null,
+				"eshop_id": 219884,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/60246795vd04b1d.png",
+				"eshop_status_id": 1,
+				"seller": 60246795,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 10367,
+					"canceled": 723,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.02,
+						"positive": 0.97,
+						"neutral": 0.01
+					},
+					"completed": 9644
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0175,
+						"value": 55,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.048,
+						"value": 143,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 2949
+					},
+					"cancellations": {
+						"rate": 0.0063,
+						"value": 20,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 225633.9,
+		"prices": {
+			"id": "MLA915184160",
+			"prices": [{
+				"id": "3",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 225633.9,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-23T17:49:44Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 0,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-04-03T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a1932-true-tone-2019-space-gray-13-intel-core-i5-8210y-8gb-de-ram-256gb-ssd-intel-uhd-graphics-617-60-hz-2560x1600px-macos-x-10/p/MLA15555684",
+		"thumbnail": "http://http2.mlstatic.com/D_804815-MLA45103698426_032021-I.jpg",
+		"thumbnail_id": "804815-MLA45103698426_032021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 31996.77,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-X",
+			"state_name": "Córdoba",
+			"city_id": null,
+			"city_name": "Villa María"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["mandatory_free_shipping"],
+			"logistic_type": "drop_off",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-X",
+				"name": "Córdoba"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa María"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_id": "-1",
+			"value_struct": null,
+			"values": [{
+				"id": "-1",
+				"name": null,
+				"struct": null,
+				"source": 7600763932814409
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "ALPHANUMERIC_MODEL",
+			"name": "Modelo alfanumérico",
+			"value_name": null,
+			"source": 7600763932814409
+		}, {
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "BRAND",
+			"value_id": "9344",
+			"attribute_group_id": "OTHERS",
+			"name": "Marca",
+			"value_name": "Apple"
+		}, {
+			"attribute_group_name": "Otros",
+			"value_id": "8150537",
+			"name": "Modelo detallado",
+			"value_name": "MVFJ2LL/A",
+			"value_struct": null,
+			"values": [{
+				"id": "8150537",
+				"name": "MVFJ2LL/A",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "DETAILED_MODEL"
+		}, {
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"attribute_group_name": "Otros",
+			"source": 7600763932814409,
+			"value_struct": null,
+			"values": [{
+				"name": "Nuevo",
+				"struct": null,
+				"source": 7600763932814409,
+				"id": "2230284"
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"id": "LINE",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"name": "Línea",
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"value_id": "8155545",
+			"value_name": "A1932 (True Tone 2019)",
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "8155545",
+				"name": "A1932 (True Tone 2019)"
+			}],
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"source": 1,
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 1
+			}],
+			"id": "PROCESSOR_LINE",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Línea del procesador"
+		}, {
+			"id": "PROCESSOR_MODEL",
+			"name": "Modelo del procesador",
+			"value_name": "8210Y",
+			"attribute_group_id": "OTHERS",
+			"value_id": "8135957",
+			"value_struct": null,
+			"values": [{
+				"id": "8135957",
+				"name": "8210Y",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"name": "Peso",
+			"value_id": "6171145",
+			"value_name": "1.25 kg",
+			"values": [{
+				"id": "6171145",
+				"name": "1.25 kg",
+				"struct": {
+					"number": 1.25,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"value_struct": {
+				"number": 1.25,
+				"unit": "kg"
+			},
+			"attribute_group_id": "OTHERS",
+			"source": 1
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15555684",
+		"tags": ["good_quality_picture", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 5
+	}, {
+		"id": "MLA914369686",
+		"site_id": "MLA",
+		"title": "Macbook Pro A1989 (2018) Space Gray 13.3 , Intel Core I5 8259u 8gb De Ram 256gb Ssd, Intel Iris Plus Graphics 655 60 Hz 2560x1600px Macos X 10",
+		"seller": {
+			"id": 60246795,
+			"permalink": "http://perfil.mercadolibre.com.ar/MAURICOMPUTACION",
+			"registration_date": "2008-10-29T17:26:12.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "MAURICOMPUTACION",
+				"eshop_rubro": null,
+				"eshop_id": 219884,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/60246795vd04b1d.png",
+				"eshop_status_id": 1,
+				"seller": 60246795,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 10367,
+					"canceled": 723,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.02,
+						"positive": 0.97,
+						"neutral": 0.01
+					},
+					"completed": 9644
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0175,
+						"value": 55,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.048,
+						"value": 143,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 2949
+					},
+					"cancellations": {
+						"rate": 0.0063,
+						"value": 20,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 239214.6,
+		"prices": {
+			"id": "MLA914369686",
+			"prices": [{
+				"id": "3",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 239214.6,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-23T20:33:13Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 3,
+		"sold_quantity": 0,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-03-27T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-pro-a1989-2018-space-gray-133-intel-core-i5-8259u-8gb-de-ram-256gb-ssd-intel-iris-plus-graphics-655-60-hz-2560x1600px-macos-x-10/p/MLA15698976",
+		"thumbnail": "http://http2.mlstatic.com/D_811881-MLA45104639552_032021-I.jpg",
+		"thumbnail_id": "811881-MLA45104639552_032021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 33922.62,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-X",
+			"state_name": "Córdoba",
+			"city_id": null,
+			"city_name": "Villa María"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["mandatory_free_shipping"],
+			"logistic_type": "drop_off",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-X",
+				"name": "Córdoba"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa María"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_struct": null,
+			"values": [{
+				"id": "-1",
+				"name": null,
+				"struct": null,
+				"source": 7600763932814409
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_name": null,
+			"name": "Modelo alfanumérico",
+			"value_id": "-1",
+			"attribute_group_name": "Otros",
+			"source": 7600763932814409,
+			"id": "ALPHANUMERIC_MODEL"
+		}, {
+			"value_name": "Apple",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"name": "Marca",
+			"value_id": "9344",
+			"value_struct": null,
+			"source": 1
+		}, {
+			"name": "Modelo detallado",
+			"value_name": "MR9Q2LL/A",
+			"value_struct": null,
+			"id": "DETAILED_MODEL",
+			"value_id": "8248903",
+			"values": [{
+				"id": "8248903",
+				"name": "MR9Q2LL/A",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"attribute_group_id": "OTHERS",
+			"value_struct": null,
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 1
+			}],
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem"
+		}, {
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"values": [{
+				"id": "95588",
+				"name": "MacBook Pro",
+				"struct": null,
+				"source": 1
+			}],
+			"source": 1,
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95588",
+			"value_name": "MacBook Pro"
+		}, {
+			"id": "MODEL",
+			"values": [{
+				"struct": null,
+				"source": 1,
+				"id": "8248902",
+				"name": "A1989 (2018)"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Modelo",
+			"value_id": "8248902",
+			"value_name": "A1989 (2018)",
+			"value_struct": null
+		}, {
+			"attribute_group_name": "Otros",
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"value_struct": null,
+			"source": 1
+		}, {
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "PROCESSOR_LINE",
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"values": [{
+				"name": "Core i5",
+				"struct": null,
+				"source": 1,
+				"id": "7769178"
+			}]
+		}, {
+			"name": "Modelo del procesador",
+			"value_id": "8248905",
+			"value_name": "8259U",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "PROCESSOR_MODEL",
+			"values": [{
+				"id": "8248905",
+				"name": "8259U",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"name": "Peso",
+			"value_id": "365994",
+			"values": [{
+				"id": "365994",
+				"name": "1.37 kg",
+				"struct": {
+					"number": 1.37,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"value_struct": {
+				"number": 1.37,
+				"unit": "kg"
+			},
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"value_name": "1.37 kg"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15698976",
+		"tags": ["good_quality_picture", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 6
+	}, {
+		"id": "MLA915036020",
+		"site_id": "MLA",
+		"title": "Macbook Air A1932 (true Tone 2019) Silver 13 , Intel Core I5 8210y 8gb De Ram 128gb Ssd, Intel Uhd Graphics 617 60 Hz 2560x1600px Macos X 10",
+		"seller": {
+			"id": 119671699,
+			"permalink": "http://perfil.mercadolibre.com.ar/LIBERTECSRL",
+			"registration_date": "2012-08-18T10:26:23.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 1617,
+					"canceled": 73,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.02,
+						"positive": 0.97,
+						"neutral": 0.01
+					},
+					"completed": 1544
+				},
+				"power_seller_status": "gold",
+				"metrics": {
+					"claims": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 161
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 179999,
+		"prices": {
+			"id": "MLA915036020",
+			"prices": [{
+				"id": "1",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 179999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-07T13:58:56Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 0,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-04-02T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-air-a1932-true-tone-2019-silver-13-intel-core-i5-8210y-8gb-de-ram-128gb-ssd-intel-uhd-graphics-617-60-hz-2560x1600px-macos-x-10/p/MLA15555687",
+		"thumbnail": "http://http2.mlstatic.com/D_770079-MLA45103698488_032021-I.jpg",
+		"thumbnail_id": "770079-MLA45103698488_032021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 25525.36,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Remedios de Escalada"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["mandatory_free_shipping"],
+			"logistic_type": "xd_drop_off",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Remedios de Escalada"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"name": "Marca",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"value_id": "9344",
+			"value_name": "Apple",
+			"source": 1
+		}, {
+			"id": "DETAILED_MODEL",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Modelo detallado",
+			"value_id": "8155546",
+			"value_name": "MVFK2LL/A",
+			"value_struct": null,
+			"values": [{
+				"id": "8155546",
+				"name": "MVFK2LL/A",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"source": 2860837171021627,
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 2860837171021627
+			}]
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "LINE",
+			"value_id": "95565",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 1
+			}],
+			"name": "Línea",
+			"value_name": "MacBook Air",
+			"attribute_group_name": "Otros"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"value_name": "A1932 (True Tone 2019)",
+			"value_struct": null,
+			"value_id": "8155545",
+			"values": [{
+				"source": 1,
+				"id": "8155545",
+				"name": "A1932 (True Tone 2019)",
+				"struct": null
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "MODEL",
+			"name": "Modelo"
+		}, {
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"values": [{
+				"name": "Intel",
+				"struct": null,
+				"source": 1,
+				"id": "7855833"
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1
+		}, {
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"name": "Modelo del procesador",
+			"values": [{
+				"id": "8135957",
+				"name": "8210Y",
+				"struct": null,
+				"source": 1
+			}],
+			"source": 1,
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_MODEL",
+			"value_id": "8135957",
+			"value_name": "8210Y",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"id": "WEIGHT",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"name": "Peso",
+			"value_id": "6171145",
+			"value_name": "1.25 kg",
+			"value_struct": {
+				"number": 1.25,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": "6171145",
+				"name": "1.25 kg",
+				"struct": {
+					"number": 1.25,
+					"unit": "kg"
+				},
+				"source": 1
+			}]
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15555687",
+		"tags": ["good_quality_picture", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 7
+	}, {
+		"id": "MLA913578355",
+		"site_id": "MLA",
+		"title": "Macbook Pro A2159 Space Gray 13.3 , Intel Core I5 8257u 8gb De Ram 128gb Ssd, Intel Iris Plus Graphics 645 60 Hz 2560x1600px Macos X 10",
+		"seller": {
+			"id": 5395482,
+			"permalink": "http://perfil.mercadolibre.com.ar/IMSYS",
+			"registration_date": "2001-09-18T00:00:00.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 49,
+					"canceled": 1,
+					"period": "historic",
+					"ratings": {
+						"negative": 0,
+						"positive": 1,
+						"neutral": 0
+					},
+					"completed": 48
+				},
+				"power_seller_status": null,
+				"metrics": {
+					"claims": {
+						"rate": 0,
+						"value": 1,
+						"period": "365 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "365 days"
+					},
+					"sales": {
+						"period": "365 days",
+						"completed": 48
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 0,
+						"period": "365 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 249999,
+		"prices": {
+			"id": "MLA913578355",
+			"prices": [{
+				"id": "1",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 249999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-26T14:08:57Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 2,
+		"sold_quantity": 0,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-03-21T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://www.mercadolibre.com.ar/macbook-pro-a2159-space-gray-133-intel-core-i5-8257u-8gb-de-ram-128gb-ssd-intel-iris-plus-graphics-645-60-hz-2560x1600px-macos-x-10/p/MLA15248257",
+		"thumbnail": "http://http2.mlstatic.com/D_759602-MLA43228326752_082020-I.jpg",
+		"thumbnail_id": "759602-MLA43228326752_082020",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 35451.94,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQk5VRTc3MTZa",
+			"city_name": "Nueva Pompeya"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["mandatory_free_shipping"],
+			"logistic_type": "xd_drop_off",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQk5VRTc3MTZa",
+				"name": "Nueva Pompeya"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"name": "Marca",
+			"value_id": "9344",
+			"value_name": "Apple",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 1
+			}],
+			"source": 1
+		}, {
+			"value_id": "7876077",
+			"value_name": "MUHN2LL/A",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "DETAILED_MODEL",
+			"name": "Modelo detallado",
+			"values": [{
+				"id": "7876077",
+				"name": "MUHN2LL/A",
+				"struct": null,
+				"source": 1
+			}]
+		}, {
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS",
+			"id": "ITEM_CONDITION",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "LINE",
+			"value_name": "MacBook Pro",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"name": "Línea",
+			"value_id": "95588",
+			"values": [{
+				"id": "95588",
+				"name": "MacBook Pro",
+				"struct": null,
+				"source": 1
+			}],
+			"source": 1
+		}, {
+			"value_id": "7876075",
+			"value_name": "A2159",
+			"value_struct": null,
+			"name": "Modelo",
+			"values": [{
+				"source": 1,
+				"id": "7876075",
+				"name": "A2159",
+				"struct": null
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 1,
+			"id": "MODEL"
+		}, {
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 1
+			}],
+			"attribute_group_name": "Otros",
+			"source": 1
+		}, {
+			"id": "PROCESSOR_LINE",
+			"values": [{
+				"name": "Core i5",
+				"struct": null,
+				"source": 1,
+				"id": "7769178"
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"name": "Línea del procesador",
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"attribute_group_name": "Otros"
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_MODEL",
+			"name": "Modelo del procesador",
+			"value_struct": null,
+			"values": [{
+				"source": 1,
+				"id": "7876081",
+				"name": "8257U",
+				"struct": null
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"value_id": "7876081",
+			"value_name": "8257U"
+		}, {
+			"value_struct": {
+				"number": 1.3,
+				"unit": "kg"
+			},
+			"attribute_group_name": "Otros",
+			"name": "Peso",
+			"value_name": "1.3 kg",
+			"values": [{
+				"id": "1130924",
+				"name": "1.3 kg",
+				"struct": {
+					"number": 1.3,
+					"unit": "kg"
+				},
+				"source": 1
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "WEIGHT",
+			"value_id": "1130924"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15248257",
+		"tags": ["good_quality_picture", "brand_verified", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"catalog_listing": true,
+		"use_thumbnail_id": true,
+		"order_backend": 8
+	}, {
+		"id": "MLA896864876",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 2020 13.3 Core I3 8gb 256gb A2179 1,29kg",
+		"seller": {
+			"id": 86898163,
+			"permalink": "http://perfil.mercadolibre.com.ar/OFERTAS+INFORMATICAS",
+			"registration_date": "2005-11-08T11:47:41.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "OFERTAS INFORMATICAS",
+				"eshop_rubro": null,
+				"eshop_id": 20659,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/86898163.jpg",
+				"eshop_status_id": 1,
+				"seller": 86898163,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 28144,
+					"canceled": 1037,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.98,
+						"neutral": 0.01
+					},
+					"completed": 27107
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0053,
+						"value": 18,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0398,
+						"value": 125,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 3213
+					},
+					"cancellations": {
+						"rate": 0.0023,
+						"value": 8,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 151999,
+		"prices": {
+			"id": "MLA896864876",
+			"prices": [{
+				"id": "16",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 151999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-20T14:51:33Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "14",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-03-17T05:02:06Z",
+					"end_time": "2021-03-20T05:02:06Z",
+					"eligible": true
+				},
+				"amount": 158999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-03-17T05:02:06Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 50,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2040-11-07T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-896864876-apple-macbook-air-2020-133-core-i3-8gb-256gb-a2179-129kg-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_639975-MLA44561230966_012021-O.jpg",
+		"thumbnail_id": "639975-MLA44561230966_012021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21554.72,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjgzMjRa",
+			"city_name": "San Nicolás"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjgzMjRa",
+				"name": "San Nicolás"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"id": "BRAND",
+			"value_struct": null,
+			"values": [{
+				"source": 3045741222775799,
+				"id": "9344",
+				"name": "Apple",
+				"struct": null
+			}],
+			"source": 3045741222775799,
+			"name": "Marca",
+			"value_id": "9344",
+			"value_name": "Apple",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 3045741222775799
+		}, {
+			"id": "LINE",
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"name": "Línea",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"value_struct": null
+		}, {
+			"name": "Modelo",
+			"value_name": "A2179",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"id": "MODEL",
+			"value_id": "8773476",
+			"values": [{
+				"name": "A2179",
+				"struct": null,
+				"source": 3045741222775799,
+				"id": "8773476"
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "7855833",
+			"value_struct": null,
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"attribute_group_id": "OTHERS",
+			"source": 3045741222775799
+		}, {
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"value_id": "7769179",
+			"value_name": "Core i3",
+			"source": 3045741222775799
+		}, {
+			"value_id": "7212862",
+			"value_name": "1.29 kg",
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"unit": "kg",
+					"number": 1.29
+				},
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"id": "WEIGHT",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"name": "Peso"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913938",
+		"tags": ["brand_verified", "catalog_listing_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"order_backend": 9,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA911215223",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 13 Core I5 1.8ghz 8gb 128gb Ssd",
+		"seller": {
+			"id": 608846165,
+			"permalink": "http://perfil.mercadolibre.com.ar/1P+CE_FLA",
+			"registration_date": "2020-07-13T13:21:30.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["brand", "user_info_verified", "large_seller", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 363767,
+					"canceled": 16686,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 347081
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0087,
+						"value": 945,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 103005
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 149999,
+		"prices": {
+			"id": "MLA911215223",
+			"prices": [{
+				"id": "13",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 149999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-29T13:30:34Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "35",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-04-19T04:17:29Z",
+					"end_time": "2021-04-22T04:17:29Z",
+					"eligible": true
+				},
+				"amount": 149999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-04-19T04:17:29Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 50,
+		"sold_quantity": 5,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-03-04T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-911215223-apple-macbook-air-13-core-i5-18ghz-8gb-128gb-ssd-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_799908-MLA44741751990_012021-O.jpg",
+		"thumbnail_id": "799908-MLA44741751990_012021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21271.11,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Villa Celina"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa Celina"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"values": [{
+				"struct": null,
+				"source": 2860837171021627,
+				"id": "9344",
+				"name": "Apple"
+			}],
+			"source": 2860837171021627,
+			"value_name": "Apple",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"name": "Marca",
+			"value_id": "9344"
+		}, {
+			"name": "Condición del ítem",
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"id": "ITEM_CONDITION",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_id": "2230284"
+		}, {
+			"values": [{
+				"struct": null,
+				"source": 2860837171021627,
+				"id": "95565",
+				"name": "MacBook Air"
+			}],
+			"attribute_group_name": "Otros",
+			"id": "LINE",
+			"name": "Línea",
+			"value_name": "MacBook Air",
+			"source": 2860837171021627,
+			"value_id": "95565",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "7955537",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_name": "A1466",
+			"values": [{
+				"id": "7955537",
+				"name": "A1466",
+				"struct": null,
+				"source": 2860837171021627
+			}]
+		}, {
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null,
+			"values": [{
+				"source": 2860837171021627,
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null
+			}],
+			"source": 2860837171021627,
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"value_struct": null,
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_name": "5350U",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_MODEL",
+			"name": "Modelo del procesador",
+			"value_id": "7955540",
+			"values": [{
+				"name": "5350U",
+				"struct": null,
+				"source": 7567447101417086,
+				"id": "7955540"
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 7567447101417086
+		}, {
+			"id": "WEIGHT",
+			"value_name": "1.3 kg",
+			"values": [{
+				"name": "1.3 kg",
+				"struct": {
+					"number": 1.3,
+					"unit": "kg"
+				},
+				"source": 2860837171021627,
+				"id": "1130924"
+			}],
+			"attribute_group_name": "Otros",
+			"name": "Peso",
+			"value_id": "1130924",
+			"value_struct": {
+				"number": 1.3,
+				"unit": "kg"
+			},
+			"attribute_group_id": "OTHERS",
+			"source": 2860837171021627
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": 1938,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15306716",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"order_backend": 10,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA909226688",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 13 Retina Core I3 8gb 256gb ",
+		"seller": {
+			"id": 608846165,
+			"permalink": "http://perfil.mercadolibre.com.ar/1P+CE_FLA",
+			"registration_date": "2020-07-13T13:21:30.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["brand", "user_info_verified", "large_seller", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 363767,
+					"canceled": 16686,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 347081
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0087,
+						"value": 945,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 103005
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 159999,
+		"prices": {
+			"id": "MLA909226688",
+			"prices": [{
+				"id": "19",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 159999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-29T13:25:47Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "49",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-04-27T04:16:34Z",
+					"end_time": "2021-04-30T04:16:34Z",
+					"eligible": true
+				},
+				"amount": 179999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-04-27T04:16:34Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 50,
+		"sold_quantity": 50,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-02-20T15:33:26.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-909226688-apple-macbook-air-13-retina-core-i3-8gb-256gb-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_678315-MLA44988489015_022021-O.jpg",
+		"thumbnail_id": "678315-MLA44988489015_022021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 22689.19,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Villa Celina"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa Celina"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"source": 8748668969142,
+			"id": "BRAND",
+			"name": "Marca",
+			"value_id": "9344",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"value_name": "Apple",
+			"value_struct": null,
+			"values": [{
+				"name": "Apple",
+				"struct": null,
+				"source": 8748668969142,
+				"id": "9344"
+			}]
+		}, {
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 8748668969142,
+				"id": "2230284",
+				"name": "Nuevo"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"source": 8748668969142
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "LINE",
+			"value_id": "95565",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"name": "Línea",
+			"value_name": "MacBook Air"
+		}, {
+			"value_name": "MWTJ2LE/A I3",
+			"value_struct": null,
+			"values": [{
+				"id": null,
+				"name": "MWTJ2LE/A I3",
+				"struct": null,
+				"source": 3376461333454861
+			}],
+			"attribute_group_name": "Otros",
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_id": null,
+			"attribute_group_id": "OTHERS",
+			"source": 3376461333454861
+		}, {
+			"id": "PROCESSOR_BRAND",
+			"value_name": "Intel",
+			"values": [{
+				"struct": null,
+				"source": 8748668969142,
+				"id": "7855833",
+				"name": "Intel"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"value_struct": null
+		}, {
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"source": 3376461333454861,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"value_id": null,
+			"value_name": "Core i3-1000ng4 (10ma Generacion) de doble núcleo a 1,1 GHz Max: 3,2 GHz - Caché L3 4 MB.",
+			"values": [{
+				"id": null,
+				"name": "Core i3-1000ng4 (10ma Generacion) de doble núcleo a 1,1 GHz Max: 3,2 GHz - Caché L3 4 MB.",
+				"struct": null,
+				"source": 3376461333454861
+			}]
+		}, {
+			"value_name": "1290 g",
+			"value_struct": {
+				"number": 1290,
+				"unit": "g"
+			},
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"id": "WEIGHT",
+			"value_id": null,
+			"attribute_group_id": "OTHERS",
+			"name": "Peso",
+			"values": [{
+				"id": null,
+				"name": "1290 g",
+				"struct": {
+					"number": 1290,
+					"unit": "g"
+				},
+				"source": 8748668969142
+			}]
+		}],
+		"original_price": 160999,
+		"category_id": "MLA1652",
+		"official_store_id": 1938,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": null,
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed", "best_seller_candidate"],
+		"order_backend": 11,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA903179538",
+		"site_id": "MLA",
+		"title": "Apple Macbook Pro 13.3 2020 Touch Bar Intel Core I5 512gb",
+		"seller": {
+			"id": 608846165,
+			"permalink": "http://perfil.mercadolibre.com.ar/1P+CE_FLA",
+			"registration_date": "2020-07-13T13:21:30.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["brand", "user_info_verified", "large_seller", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 363767,
+					"canceled": 16686,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 347081
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0087,
+						"value": 945,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 103005
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 318999,
+		"prices": {
+			"id": "MLA903179538",
+			"prices": [{
+				"id": "2",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 318999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-08T14:46:34Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "42",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-04-27T04:16:25Z",
+					"end_time": "2021-04-30T04:16:25Z",
+					"eligible": true
+				},
+				"amount": 318999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-04-27T04:16:25Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 25,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2041-01-15T19:24:40.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-903179538-apple-macbook-pro-133-2020-touch-bar-intel-core-i5-512gb-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_864160-MLA44492896253_012021-O.jpg",
+		"thumbnail_id": "864160-MLA44492896253_012021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 35444.33,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Villa Celina"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa Celina"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_id": "9344",
+			"value_name": "Apple",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"id": "BRAND",
+			"name": "Marca",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"name": "Condición del ítem",
+			"value_struct": null,
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"id": "ITEM_CONDITION",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"attribute_group_name": "Otros"
+		}, {
+			"value_name": "MacBook Pro",
+			"attribute_group_id": "OTHERS",
+			"value_struct": null,
+			"values": [{
+				"source": 8748668969142,
+				"id": "95588",
+				"name": "MacBook Pro",
+				"struct": null
+			}],
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95588"
+		}, {
+			"value_name": "13 2020",
+			"value_struct": null,
+			"values": [{
+				"id": "9694104",
+				"name": "13 2020",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_id": "9694104",
+			"attribute_group_name": "Otros"
+		}, {
+			"source": 8748668969142,
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"name": "Peso",
+			"value_id": "-1",
+			"value_name": null,
+			"id": "WEIGHT",
+			"value_struct": null,
+			"values": [{
+				"id": "-1",
+				"name": null,
+				"struct": null,
+				"source": 3376461333454861
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3376461333454861
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": 1938,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": null,
+		"tags": ["good_quality_thumbnail", "brand_verified", "good_quality_picture", "immediate_payment", "shipping_guaranteed", "best_seller_candidate"],
+		"order_backend": 12,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA906177618",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 13 Core I5 1.8ghz 8gb 128gb Ssd",
+		"seller": {
+			"id": 608846165,
+			"permalink": "http://perfil.mercadolibre.com.ar/1P+CE_FLA",
+			"registration_date": "2020-07-13T13:21:30.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["brand", "user_info_verified", "large_seller", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 363767,
+					"canceled": 16686,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 347081
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0087,
+						"value": 945,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0,
+						"value": 0,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 103005
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 179999,
+		"prices": {
+			"id": "MLA906177618",
+			"prices": [{
+				"id": "28",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 179999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-29T13:31:25Z"
+			}, {
+				"id": "58",
+				"type": "promotion",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-04-27T03:00:00Z",
+					"end_time": "2021-04-28T02:59:59Z",
+					"eligible": true
+				},
+				"amount": 149999,
+				"regular_amount": 179999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {
+					"promotion_id": "1574319-MLA906177618",
+					"promotion_type": "deal_of_the_day"
+				},
+				"last_updated": "2021-04-27T00:27:36Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "59",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-04-27T04:16:32Z",
+					"end_time": "2021-04-30T04:16:32Z",
+					"eligible": true
+				},
+				"amount": 179999,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-04-27T04:16:32Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 500,
+		"sold_quantity": 50,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2041-02-21T19:42:56.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-906177618-apple-macbook-air-13-core-i5-18ghz-8gb-128gb-ssd-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_799908-MLA44741751990_012021-O.jpg",
+		"thumbnail_id": "799908-MLA44741751990_012021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 19999.89,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-B",
+			"state_name": "Buenos Aires",
+			"city_id": null,
+			"city_name": "Villa Celina"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-B",
+				"name": "Buenos Aires"
+			},
+			"city": {
+				"id": null,
+				"name": "Villa Celina"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"attribute_group_name": "Otros",
+			"name": "Marca",
+			"attribute_group_id": "OTHERS",
+			"value_name": "Apple",
+			"value_struct": null,
+			"values": [{
+				"source": 8748668969142,
+				"id": "9344",
+				"name": "Apple",
+				"struct": null
+			}],
+			"source": 8748668969142,
+			"id": "BRAND",
+			"value_id": "9344"
+		}, {
+			"value_id": "2230284",
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"id": "ITEM_CONDITION",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"name": "Condición del ítem"
+		}, {
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"name": "Línea",
+			"value_id": "95565",
+			"attribute_group_id": "OTHERS",
+			"id": "LINE"
+		}, {
+			"source": 3942444344910321,
+			"id": "MODEL",
+			"value_id": "7955537",
+			"value_name": "A1466",
+			"value_struct": null,
+			"values": [{
+				"id": "7955537",
+				"name": "A1466",
+				"struct": null,
+				"source": 3942444344910321
+			}],
+			"attribute_group_id": "OTHERS",
+			"name": "Modelo",
+			"attribute_group_name": "Otros"
+		}, {
+			"id": "PROCESSOR_BRAND",
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 8748668969142,
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null
+		}, {
+			"values": [{
+				"id": "7769178",
+				"name": "Core i5",
+				"struct": null,
+				"source": 8748668969142
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 8748668969142,
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_id": "7769178",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"attribute_group_name": "Otros"
+		}, {
+			"value_id": "7955540",
+			"value_struct": null,
+			"values": [{
+				"id": "7955540",
+				"name": "5350U",
+				"struct": null,
+				"source": 3942444344910321
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"name": "Modelo del procesador",
+			"value_name": "5350U",
+			"source": 3942444344910321,
+			"id": "PROCESSOR_MODEL"
+		}, {
+			"values": [{
+				"source": 3942444344910321,
+				"id": "1130924",
+				"name": "1.3 kg",
+				"struct": {
+					"number": 1.3,
+					"unit": "kg"
+				}
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 3942444344910321,
+			"value_name": "1.3 kg",
+			"name": "Peso",
+			"value_id": "1130924",
+			"value_struct": {
+				"number": 1.3,
+				"unit": "kg"
+			},
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT"
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": 1938,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15306716",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "immediate_payment", "shipping_guaranteed", "best_seller_candidate"],
+		"order_backend": 13,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA840800625",
+		"site_id": "MLA",
+		"title": "Macbook Pro 16  Con Touch Bar: 2.3ghz 8-core I9, 1 Tb",
+		"seller": {
+			"id": 208137579,
+			"permalink": "http://perfil.mercadolibre.com.ar/ONECLICKARG",
+			"registration_date": "2016-03-09T13:05:08.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "medium_seller", "credits_profile", "mshops", "messages_as_seller", "messages_as_buyer"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 26887,
+					"canceled": 1328,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.02,
+						"positive": 0.97,
+						"neutral": 0.01
+					},
+					"completed": 25559
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.009,
+						"value": 68,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0223,
+						"value": 160,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 7141
+					},
+					"cancellations": {
+						"rate": 0.0043,
+						"value": 33,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 613199,
+		"prices": {
+			"id": "MLA840800625",
+			"prices": [{
+				"id": "5",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 613199,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-03-30T14:26:25Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 2,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2040-02-19T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-840800625-macbook-pro-16-con-touch-bar-23ghz-8-core-i9-1-tb-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_750933-MLA44913239874_022021-O.jpg",
+		"thumbnail_id": "750933-MLA44913239874_022021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 68133.22,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-S",
+			"state_name": "Santa Fe",
+			"city_id": null,
+			"city_name": "Rosario"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-S",
+				"name": "Santa Fe"
+			},
+			"city": {
+				"id": null,
+				"name": "Rosario"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"name": "Marca",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"value_name": "Apple",
+			"attribute_group_id": "OTHERS",
+			"source": 2860837171021627,
+			"value_id": "9344"
+		}, {
+			"source": 2860837171021627,
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 2860837171021627,
+				"id": "95588",
+				"name": "MacBook Pro"
+			}],
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95588",
+			"value_name": "MacBook Pro",
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"name": "Modelo",
+			"value_id": null,
+			"value_name": "MacBook Pro 16 con Touch Bar: 2.3GHz 8-core i9, 1 TB - Space Gray",
+			"id": "MODEL",
+			"values": [{
+				"struct": null,
+				"source": 2860837171021627,
+				"id": null,
+				"name": "MacBook Pro 16\" con Touch Bar: 2.3GHz 8-core i9, 1 TB - Space Gray"
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_struct": null,
+			"values": [{
+				"source": 2860837171021627,
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"values": [{
+				"name": "Core i9",
+				"struct": null,
+				"source": 2860837171021627,
+				"id": "7769247"
+			}],
+			"source": 2860837171021627,
+			"value_id": "7769247",
+			"value_name": "Core i9"
+		}, {
+			"id": "WEIGHT",
+			"value_id": null,
+			"value_name": "2 kg",
+			"source": 2860837171021627,
+			"name": "Peso",
+			"value_struct": {
+				"number": 2,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": null,
+				"name": "2 kg",
+				"struct": {
+					"number": 2,
+					"unit": "kg"
+				},
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": null,
+		"tags": ["good_quality_thumbnail", "good_quality_picture", "immediate_payment", "shipping_guaranteed"],
+		"order_backend": 14,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA896870097",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 2020 13.3 A2179 Intel Core I3 8gb 256gb ",
+		"seller": {
+			"id": 69526727,
+			"permalink": "http://perfil.mercadolibre.com.ar/ELECTRONIC-MARKET",
+			"registration_date": "2011-09-15T14:30:10.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 34409,
+					"canceled": 1364,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.02,
+						"positive": 0.96,
+						"neutral": 0.02
+					},
+					"completed": 33045
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0066,
+						"value": 34,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0352,
+						"value": 170,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 4896
+					},
+					"cancellations": {
+						"rate": 0.0033,
+						"value": 17,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 151799,
+		"prices": {
+			"id": "MLA896870097",
+			"prices": [{
+				"id": "9",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 151799,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-20T15:01:01Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 5,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2040-11-07T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-896870097-apple-macbook-air-2020-133-a2179-intel-core-i3-8gb-256gb-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_703053-MLA44060318143_112020-O.jpg",
+		"thumbnail_id": "703053-MLA44060318143_112020",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21526.36,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjgzMjRa",
+			"city_name": "San Nicolás"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjgzMjRa",
+				"name": "San Nicolás"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"name": "Marca",
+			"value_id": "9344",
+			"value_name": "Apple",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"id": "BRAND",
+			"value_struct": null
+		}, {
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_struct": null,
+			"values": [{
+				"name": "Nuevo",
+				"struct": null,
+				"source": 3045741222775799,
+				"id": "2230284"
+			}],
+			"source": 3045741222775799
+		}, {
+			"value_struct": null,
+			"values": [{
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 3045741222775799,
+				"id": "95565"
+			}],
+			"attribute_group_id": "OTHERS",
+			"id": "LINE",
+			"value_id": "95565",
+			"value_name": "MacBook Air",
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"name": "Línea"
+		}, {
+			"values": [{
+				"name": "A2179",
+				"struct": null,
+				"source": 3045741222775799,
+				"id": "8773476"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_name": "A2179",
+			"value_struct": null,
+			"source": 3045741222775799
+		}, {
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_id": "OTHERS",
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 3045741222775799,
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"value_name": "Core i3",
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 3045741222775799
+			}],
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"value_id": "7769179"
+		}, {
+			"name": "Peso",
+			"value_name": "1.29 kg",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3045741222775799,
+			"id": "WEIGHT",
+			"value_id": "7212862",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"values": [{
+				"source": 3045741222775799,
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				}
+			}]
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913938",
+		"tags": ["loyalty_discount_eligible", "brand_verified", "catalog_listing_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"order_backend": 15,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA885542068",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air 2020 Mwtl2ll/a 13.3  Core I3 256gb Dorado",
+		"seller": {
+			"id": 82274172,
+			"permalink": "http://perfil.mercadolibre.com.ar/BH+COMPUTACION",
+			"registration_date": "2005-07-04T10:41:06.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "credits_priority_4", "eshop", "credits_profile", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "BH COMPUTACION",
+				"eshop_rubro": null,
+				"eshop_id": 30100,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/82274172.jpg",
+				"eshop_status_id": 2,
+				"seller": 82274172,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 27161,
+					"canceled": 1031,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.98,
+						"neutral": 0.01
+					},
+					"completed": 26130
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0071,
+						"value": 25,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0322,
+						"value": 106,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 3359
+					},
+					"cancellations": {
+						"rate": 0.002,
+						"value": 7,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 151599,
+		"prices": {
+			"id": "MLA885542068",
+			"prices": [{
+				"id": "15",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 151599,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-20T15:02:39Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [{
+				"id": "13",
+				"type": "was",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": "2021-03-17T05:10:14Z",
+					"end_time": "2021-03-20T05:10:14Z",
+					"eligible": true
+				},
+				"amount": 156749,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"tags": [],
+				"last_updated": "2021-03-17T05:10:14Z"
+			}],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 5,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2040-10-21T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-885542068-apple-macbook-air-2020-mwtl2lla-133-core-i3-256gb-dorado-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_868014-MLA44072110998_112020-O.jpg",
+		"thumbnail_id": "868014-MLA44072110998_112020",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21498,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjgzMjRa",
+			"city_name": "San Nicolás"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fbm_in_process", "self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjgzMjRa",
+				"name": "San Nicolás"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"id": "BRAND",
+			"name": "Marca",
+			"value_name": "Apple",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724,
+			"value_id": "9344",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724
+		}, {
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"source": 6808261514773724,
+			"id": "LINE",
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"name": "Línea",
+			"value_id": "95565"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"source": 6808261514773724,
+			"value_name": "A2179",
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"value_id": "8773476",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"id": "MODEL",
+			"name": "Modelo"
+		}, {
+			"value_name": "Intel",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 6808261514773724,
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros"
+		}, {
+			"value_struct": null,
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724,
+			"value_id": "7769179",
+			"value_name": "Core i3"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"value_name": "1.29 kg",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 6808261514773724
+			}],
+			"name": "Peso",
+			"value_id": "7212862",
+			"source": 6808261514773724
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913938",
+		"tags": ["good_quality_thumbnail", "brand_verified", "catalog_listing_eligible", "good_quality_picture", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"order_backend": 16,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA914905609",
+		"site_id": "MLA",
+		"title": "Macbook Pro I5 8gb Ram Ssd 256gb Retina 2020 Apple Intel",
+		"seller": {
+			"id": 579983671,
+			"permalink": "http://perfil.mercadolibre.com.ar/IWANT..",
+			"registration_date": "2020-06-05T11:17:50.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "mshops", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 1234,
+					"canceled": 45,
+					"period": "historic",
+					"ratings": {
+						"negative": 0,
+						"positive": 1,
+						"neutral": 0
+					},
+					"completed": 1189
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0075,
+						"value": 6,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0095,
+						"value": 7,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 760
+					},
+					"cancellations": {
+						"rate": 0.005,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 228997,
+		"prices": {
+			"id": "MLA914905609",
+			"prices": [{
+				"id": "2",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 228997,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-21T20:07:54Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 1,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2041-04-01T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-914905609-macbook-pro-i5-8gb-ram-ssd-256gb-retina-2020-apple-intel-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_710715-MLA45467495556_042021-O.jpg",
+		"thumbnail_id": "710715-MLA45467495556_042021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 25444.11,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjkwNTZa",
+			"city_name": "San Cristóbal"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjkwNTZa",
+				"name": "San Cristóbal"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_id": "9344",
+			"source": 2860837171021627,
+			"id": "BRAND",
+			"name": "Marca",
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"value_name": "Apple",
+			"value_struct": null
+		}, {
+			"source": 2860837171021627,
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"name": "Línea",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627,
+			"id": "LINE",
+			"value_id": "95588",
+			"value_name": "MacBook Pro",
+			"values": [{
+				"id": "95588",
+				"name": "MacBook Pro",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"name": "Modelo",
+			"attribute_group_id": "OTHERS",
+			"id": "MODEL",
+			"value_id": "9582881",
+			"value_name": "A2289",
+			"value_struct": null,
+			"values": [{
+				"id": "9582881",
+				"name": "A2289",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627
+		}, {
+			"value_id": "7855833",
+			"attribute_group_name": "Otros",
+			"name": "Marca del procesador",
+			"value_name": "Intel",
+			"value_struct": null,
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 2860837171021627
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 2860837171021627,
+			"id": "PROCESSOR_BRAND"
+		}, {
+			"value_name": "Core i5",
+			"values": [{
+				"name": "Core i5",
+				"struct": null,
+				"source": 2860837171021627,
+				"id": "7769178"
+			}],
+			"source": 2860837171021627,
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_id": "7769178",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"id": "WEIGHT",
+			"name": "Peso",
+			"value_id": "37783",
+			"value_name": "1.4 kg",
+			"value_struct": {
+				"number": 1.4,
+				"unit": "kg"
+			},
+			"attribute_group_id": "OTHERS",
+			"values": [{
+				"id": "37783",
+				"name": "1.4 kg",
+				"struct": {
+					"unit": "kg",
+					"number": 1.4
+				},
+				"source": 2860837171021627
+			}],
+			"attribute_group_name": "Otros",
+			"source": 2860837171021627
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA16598196",
+		"tags": ["good_quality_thumbnail", "good_quality_picture", "immediate_payment", "shipping_guaranteed"],
+		"order_backend": 17,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA912125427",
+		"site_id": "MLA",
+		"title": "Apple Macbook Air I3 8gb Ssd 256gb Retina Teclado Español",
+		"seller": {
+			"id": 44778367,
+			"permalink": "http://perfil.mercadolibre.com.ar/EAGLETECHNOLOGY",
+			"registration_date": "2011-01-27T21:19:28.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "credits_profile", "mshops", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "EAGLETECHNOLOGY",
+				"eshop_rubro": null,
+				"eshop_id": 96029,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/44778367v11d199.png",
+				"eshop_status_id": 1,
+				"seller": 44778367,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 8079,
+					"canceled": 397,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.01,
+						"positive": 0.99,
+						"neutral": 0
+					},
+					"completed": 7682
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0066,
+						"value": 11,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0012,
+						"value": 2,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 1602
+					},
+					"cancellations": {
+						"rate": 0,
+						"value": 1,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 150999,
+		"prices": {
+			"id": "MLA912125427",
+			"prices": [{
+				"id": "21",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 150999,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-22T18:37:24Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 4,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-03-25T17:00:34.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-912125427-apple-macbook-air-i3-8gb-ssd-256gb-retina-teclado-espanol-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_851394-MLA45317914914_032021-O.jpg",
+		"thumbnail_id": "851394-MLA45317914914_032021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 21412.92,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlZJTDYzNzZa",
+			"city_name": "Villa Devoto"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "self_service_out", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlZJTDYzNzZa",
+				"name": "Villa Devoto"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"name": "Marca",
+			"value_name": "Apple",
+			"source": 6808261514773724,
+			"attribute_group_name": "Otros",
+			"id": "BRAND",
+			"value_id": "9344",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_name": "Nuevo",
+			"value_struct": null,
+			"value_id": "2230284",
+			"values": [{
+				"id": "2230284",
+				"name": "Nuevo",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724
+		}, {
+			"values": [{
+				"id": "95565",
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros",
+			"id": "LINE",
+			"name": "Línea",
+			"value_id": "95565",
+			"source": 6808261514773724,
+			"value_name": "MacBook Air",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS"
+		}, {
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724,
+			"id": "MODEL",
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_name": "A2179",
+			"value_struct": null,
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 6808261514773724
+			}]
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"value_struct": null,
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 6808261514773724
+		}, {
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_struct": null,
+			"values": [{
+				"struct": null,
+				"source": 6808261514773724,
+				"id": "7769179",
+				"name": "Core i3"
+			}],
+			"source": 6808261514773724,
+			"value_id": "7769179",
+			"value_name": "Core i3",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"name": "Modelo del procesador",
+			"value_id": "8773479",
+			"attribute_group_name": "Otros",
+			"source": 3942444344910321,
+			"id": "PROCESSOR_MODEL",
+			"value_name": "1000NG4",
+			"value_struct": null,
+			"values": [{
+				"name": "1000NG4",
+				"struct": null,
+				"source": 3942444344910321,
+				"id": "8773479"
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"name": "Peso",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 6536000100455122,
+			"id": "WEIGHT",
+			"value_id": "7212862",
+			"value_name": "1.29 kg",
+			"value_struct": {
+				"unit": "kg",
+				"number": 1.29
+			},
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 6536000100455122
+			}]
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913938",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"order_backend": 18,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA914903553",
+		"site_id": "MLA",
+		"title": "Macbook Pro I5 8gb Ram Ssd 256gb Retina 2020 Apple Intel",
+		"seller": {
+			"id": 579983671,
+			"permalink": "http://perfil.mercadolibre.com.ar/IWANT..",
+			"registration_date": "2020-06-05T11:17:50.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "mshops", "credits_profile", "messages_as_seller"],
+			"seller_reputation": {
+				"transactions": {
+					"total": 1234,
+					"canceled": 45,
+					"period": "historic",
+					"ratings": {
+						"negative": 0,
+						"positive": 1,
+						"neutral": 0
+					},
+					"completed": 1189
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0075,
+						"value": 6,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 0.0095,
+						"value": 7,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 760
+					},
+					"cancellations": {
+						"rate": 0.005,
+						"value": 4,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 207998,
+		"prices": {
+			"id": "MLA914903553",
+			"prices": [{
+				"id": "2",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 207998,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-21T20:07:48Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 3,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_special",
+		"stop_time": "2041-04-01T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-914903553-macbook-pro-i5-8gb-ram-ssd-256gb-retina-2020-apple-intel-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_710715-MLA45467495556_042021-O.jpg",
+		"thumbnail_id": "710715-MLA45467495556_042021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 12,
+			"amount": 29495.85,
+			"rate": 70.17,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQlNBTjkwNTZa",
+			"city_name": "San Cristóbal"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "cross_docking",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQlNBTjkwNTZa",
+				"name": "San Cristóbal"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_name": "Apple",
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724,
+			"id": "BRAND",
+			"name": "Marca",
+			"value_id": "9344",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"attribute_group_name": "Otros",
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_struct": null,
+			"values": [{
+				"name": "Nuevo",
+				"struct": null,
+				"source": 6808261514773724,
+				"id": "2230284"
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_id": "2230284",
+			"value_name": "Nuevo",
+			"source": 6808261514773724
+		}, {
+			"id": "LINE",
+			"name": "Línea",
+			"value_name": "MacBook Pro",
+			"source": 6808261514773724,
+			"value_id": "95588",
+			"value_struct": null,
+			"values": [{
+				"name": "MacBook Pro",
+				"struct": null,
+				"source": 6808261514773724,
+				"id": "95588"
+			}],
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros"
+		}, {
+			"id": "MODEL",
+			"value_name": "A2289",
+			"source": 6808261514773724,
+			"attribute_group_name": "Otros",
+			"name": "Modelo",
+			"value_id": "9582881",
+			"value_struct": null,
+			"values": [{
+				"id": "9582881",
+				"name": "A2289",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724,
+			"name": "Marca del procesador",
+			"value_id": "7855833",
+			"value_name": "Intel",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 6808261514773724
+			}],
+			"id": "PROCESSOR_BRAND"
+		}, {
+			"id": "PROCESSOR_LINE",
+			"name": "Línea del procesador",
+			"value_name": "Core i5",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"value_id": "7769178",
+			"values": [{
+				"name": "Core i5",
+				"struct": null,
+				"source": 6808261514773724,
+				"id": "7769178"
+			}],
+			"attribute_group_name": "Otros",
+			"source": 6808261514773724
+		}, {
+			"source": 6808261514773724,
+			"name": "Peso",
+			"value_name": "1.4 kg",
+			"value_struct": {
+				"number": 1.4,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": "37783",
+				"name": "1.4 kg",
+				"struct": {
+					"number": 1.4,
+					"unit": "kg"
+				},
+				"source": 6808261514773724
+			}],
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"value_id": "37783",
+			"attribute_group_id": "OTHERS"
+		}],
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA16598196",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible", "shipping_guaranteed"],
+		"order_backend": 19,
+		"use_thumbnail_id": false
+	}, {
+		"id": "MLA911681961",
+		"site_id": "MLA",
+		"title": "Macbook Air Apple 2020 13.3 Core I3 8gb 256gb Cuotas",
+		"seller": {
+			"id": 294914374,
+			"permalink": "http://perfil.mercadolibre.com.ar/NOVATECH.STORE",
+			"registration_date": "2018-01-09T15:03:42.000-04:00",
+			"car_dealer": false,
+			"real_estate_agency": false,
+			"tags": ["normal", "user_info_verified", "eshop", "mshops", "messages_as_seller", "messages_as_buyer"],
+			"eshop": {
+				"nick_name": "NOVATECH.STORE",
+				"eshop_rubro": null,
+				"eshop_id": 294023,
+				"eshop_locations": [],
+				"site_id": "MLA",
+				"eshop_logo_url": "http://resources.mlstatic.com/eshops/294914374v96a5a2.png",
+				"eshop_status_id": 1,
+				"seller": 294914374,
+				"eshop_experience": 0
+			},
+			"seller_reputation": {
+				"transactions": {
+					"total": 37900,
+					"canceled": 3250,
+					"period": "historic",
+					"ratings": {
+						"negative": 0.06,
+						"positive": 0.92,
+						"neutral": 0.02
+					},
+					"completed": 34650
+				},
+				"power_seller_status": "platinum",
+				"metrics": {
+					"claims": {
+						"rate": 0.0183,
+						"value": 114,
+						"period": "60 days"
+					},
+					"delayed_handling_time": {
+						"rate": 1.0E-4,
+						"value": 1,
+						"period": "60 days"
+					},
+					"sales": {
+						"period": "60 days",
+						"completed": 5825
+					},
+					"cancellations": {
+						"rate": 9.0E-4,
+						"value": 6,
+						"period": "60 days"
+					}
+				},
+				"level_id": "5_green"
+			}
+		},
+		"price": 255615,
+		"prices": {
+			"id": "MLA911681961",
+			"prices": [{
+				"id": "14",
+				"type": "standard",
+				"conditions": {
+					"context_restrictions": [],
+					"start_time": null,
+					"end_time": null,
+					"eligible": true
+				},
+				"amount": 255615,
+				"regular_amount": null,
+				"currency_id": "ARS",
+				"exchange_rate_context": "DEFAULT",
+				"metadata": {},
+				"last_updated": "2021-04-26T21:15:59Z"
+			}],
+			"presentation": {
+				"display_currency": "ARS"
+			},
+			"payment_method_prices": [],
+			"reference_prices": [],
+			"purchase_discounts": []
+		},
+		"sale_price": null,
+		"currency_id": "ARS",
+		"available_quantity": 1,
+		"sold_quantity": 2,
+		"buying_mode": "buy_it_now",
+		"listing_type_id": "gold_pro",
+		"stop_time": "2041-03-07T04:00:00.000Z",
+		"condition": "new",
+		"permalink": "https://articulo.mercadolibre.com.ar/MLA-911681961-macbook-air-apple-2020-133-core-i3-8gb-256gb-cuotas-_JM",
+		"thumbnail": "http://http2.mlstatic.com/D_956892-MLA45189998448_032021-O.jpg",
+		"thumbnail_id": "956892-MLA45189998448_032021",
+		"accepts_mercadopago": true,
+		"installments": {
+			"quantity": 9,
+			"amount": 28401.67,
+			"rate": 0,
+			"currency_id": "ARS"
+		},
+		"address": {
+			"state_id": "AR-C",
+			"state_name": "Capital Federal",
+			"city_id": "TUxBQkJBUjM0MDha",
+			"city_name": "Barracas"
+		},
+		"shipping": {
+			"free_shipping": true,
+			"mode": "me2",
+			"tags": ["fulfillment", "self_service_in", "mandatory_free_shipping"],
+			"logistic_type": "fulfillment",
+			"store_pick_up": false
+		},
+		"seller_address": {
+			"id": "",
+			"comment": "",
+			"address_line": "",
+			"zip_code": "",
+			"country": {
+				"id": "AR",
+				"name": "Argentina"
+			},
+			"state": {
+				"id": "AR-C",
+				"name": "Capital Federal"
+			},
+			"city": {
+				"id": "TUxBQkJBUjM0MDha",
+				"name": "Barracas"
+			},
+			"latitude": "",
+			"longitude": ""
+		},
+		"attributes": [{
+			"value_id": "9344",
+			"value_name": "Apple",
+			"attribute_group_name": "Otros",
+			"source": 377188858949192,
+			"id": "BRAND",
+			"name": "Marca",
+			"value_struct": null,
+			"values": [{
+				"id": "9344",
+				"name": "Apple",
+				"struct": null,
+				"source": 377188858949192
+			}],
+			"attribute_group_id": "OTHERS"
+		}, {
+			"value_id": "2230284",
+			"values": [{
+				"name": "Nuevo",
+				"struct": null,
+				"source": 1,
+				"id": "2230284"
+			}],
+			"attribute_group_name": "Otros",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"source": 1,
+			"id": "ITEM_CONDITION",
+			"name": "Condición del ítem",
+			"value_name": "Nuevo"
+		}, {
+			"value_name": "MacBook Air",
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"id": "LINE",
+			"value_id": "95565",
+			"value_struct": null,
+			"values": [{
+				"name": "MacBook Air",
+				"struct": null,
+				"source": 377188858949192,
+				"id": "95565"
+			}],
+			"source": 377188858949192,
+			"name": "Línea"
+		}, {
+			"id": "MODEL",
+			"value_name": "A2179",
+			"values": [{
+				"id": "8773476",
+				"name": "A2179",
+				"struct": null,
+				"source": 377188858949192
+			}],
+			"attribute_group_id": "OTHERS",
+			"name": "Modelo",
+			"value_id": "8773476",
+			"value_struct": null,
+			"attribute_group_name": "Otros",
+			"source": 377188858949192
+		}, {
+			"attribute_group_name": "Otros",
+			"value_id": "7855833",
+			"values": [{
+				"id": "7855833",
+				"name": "Intel",
+				"struct": null,
+				"source": 377188858949192
+			}],
+			"attribute_group_id": "OTHERS",
+			"value_struct": null,
+			"source": 377188858949192,
+			"id": "PROCESSOR_BRAND",
+			"name": "Marca del procesador",
+			"value_name": "Intel"
+		}, {
+			"value_id": "7769179",
+			"value_name": "Core i3",
+			"attribute_group_name": "Otros",
+			"id": "PROCESSOR_LINE",
+			"value_struct": null,
+			"values": [{
+				"id": "7769179",
+				"name": "Core i3",
+				"struct": null,
+				"source": 377188858949192
+			}],
+			"attribute_group_id": "OTHERS",
+			"source": 377188858949192,
+			"name": "Línea del procesador"
+		}, {
+			"value_id": "8773479",
+			"value_name": "1000NG4",
+			"value_struct": null,
+			"attribute_group_id": "OTHERS",
+			"attribute_group_name": "Otros",
+			"source": 3942444344910321,
+			"id": "PROCESSOR_MODEL",
+			"name": "Modelo del procesador",
+			"values": [{
+				"name": "1000NG4",
+				"struct": null,
+				"source": 3942444344910321,
+				"id": "8773479"
+			}]
+		}, {
+			"value_id": "7212862",
+			"value_name": "1.29 kg",
+			"value_struct": {
+				"number": 1.29,
+				"unit": "kg"
+			},
+			"values": [{
+				"id": "7212862",
+				"name": "1.29 kg",
+				"struct": {
+					"number": 1.29,
+					"unit": "kg"
+				},
+				"source": 377188858949192
+			}],
+			"attribute_group_name": "Otros",
+			"id": "WEIGHT",
+			"name": "Peso",
+			"attribute_group_id": "OTHERS",
+			"source": 377188858949192
+		}],
+		"differential_pricing": {
+			"id": 35713287
+		},
+		"original_price": null,
+		"category_id": "MLA1652",
+		"official_store_id": null,
+		"domain_id": "MLA-NOTEBOOKS",
+		"catalog_product_id": "MLA15913938",
+		"tags": ["good_quality_picture", "good_quality_thumbnail", "immediate_payment", "shipping_guaranteed"],
+		"order_backend": 20,
+		"use_thumbnail_id": false
+	}],
+	"secondary_results": [],
+	"related_results": [],
+	"sort": {
+		"id": "relevance",
+		"name": "More relevant"
+	},
+	"available_sorts": [{
+		"id": "price_asc",
+		"name": "Lower price"
+	}, {
+		"id": "price_desc",
+		"name": "Higher price"
+	}],
+	"filters": [{
+		"id": "category",
+		"name": "Categories",
+		"type": "text",
+		"values": [{
+			"id": "MLA1652",
+			"name": "Notebooks",
+			"path_from_root": [{
+				"id": "MLA1648",
+				"name": "Computación"
+			}, {
+				"id": "MLA430687",
+				"name": "Laptops y Accesorios"
+			}, {
+				"id": "MLA1652",
+				"name": "Notebooks"
+			}]
+		}]
+	}, {
+		"id": "PROCESSOR_BRAND",
+		"name": "Marca del procesador",
+		"type": "STRING",
+		"values": [{
+			"id": "7855833",
+			"name": "Intel"
+		}]
+	}, {
+		"id": "BRAND",
+		"name": "Marca",
+		"type": "STRING",
+		"values": [{
+			"id": "9344",
+			"name": "Apple"
+		}]
+	}],
+	"available_filters": [{
+		"id": "official_store",
+		"name": "Tiendas oficiales",
+		"type": "text",
+		"values": [{
+			"id": "all",
+			"name": "Todas las tiendas oficiales",
+			"results": 8
+		}, {
+			"id": "1938",
+			"name": "Mercado Libre Electronica",
+			"results": 6
+		}]
+	}, {
+		"id": "state",
+		"name": "Location",
+		"type": "text",
+		"values": [{
+			"id": "TUxBUENBUGw3M2E1",
+			"name": "Capital Federal",
+			"results": 1678
+		}, {
+			"id": "TUxBUEdSQWU4ZDkz",
+			"name": "Bs.As. G.B.A. Norte",
+			"results": 425
+		}, {
+			"id": "TUxBUEdSQWVmNTVm",
+			"name": "Bs.As. G.B.A. Oeste",
+			"results": 218
+		}, {
+			"id": "TUxBUEdSQXJlMDNm",
+			"name": "Bs.As. G.B.A. Sur",
+			"results": 217
+		}, {
+			"id": "TUxBUENPUmFkZGIw",
+			"name": "Córdoba",
+			"results": 151
+		}, {
+			"id": "TUxBUFNBTmU5Nzk2",
+			"name": "Santa Fe",
+			"results": 149
+		}, {
+			"id": "TUxBUFpPTmFpbnRl",
+			"name": "Buenos Aires Interior",
+			"results": 133
+		}, {
+			"id": "TUxBUENPU2ExMmFkMw",
+			"name": "Bs.As. Costa Atlántica",
+			"results": 60
+		}, {
+			"id": "TUxBUE1FTmE5OWQ4",
+			"name": "Mendoza",
+			"results": 58
+		}, {
+			"id": "TUxBUE5FVW4xMzMzNQ",
+			"name": "Neuquén",
+			"results": 22
+		}, {
+			"id": "TUxBUEVOVHMzNTdm",
+			"name": "Entre Ríos",
+			"results": 21
+		}, {
+			"id": "TUxBUFNBTGFjMTJi",
+			"name": "Salta",
+			"results": 18
+		}, {
+			"id": "TUxBUEpVSnk3YmUz",
+			"name": "Jujuy",
+			"results": 15
+		}, {
+			"id": "TUxBUFRVQ244NmM3",
+			"name": "Tucumán",
+			"results": 14
+		}, {
+			"id": "TUxBUE1JU3MzNjIx",
+			"name": "Misiones",
+			"results": 12
+		}, {
+			"id": "TUxBUENIVXQxNDM1MQ",
+			"name": "Chubut",
+			"results": 11
+		}, {
+			"id": "TUxBUENPUnM5MjI0",
+			"name": "Corrientes",
+			"results": 10
+		}, {
+			"id": "TUxBUENIQW8xMTNhOA",
+			"name": "Chaco",
+			"results": 9
+		}, {
+			"id": "TUxBUFLNT29iZmZm",
+			"name": "Río Negro",
+			"results": 8
+		}, {
+			"id": "TUxBUFNBTnM0ZTcz",
+			"name": "San Luis",
+			"results": 7
+		}, {
+			"id": "TUxBUExBWmE1OWMy",
+			"name": "La Pampa",
+			"results": 6
+		}, {
+			"id": "TUxBUFNBTm5lYjU4",
+			"name": "San Juan",
+			"results": 6
+		}, {
+			"id": "TUxBUFNBTm9lOTlk",
+			"name": "Santiago del Estero",
+			"results": 3
+		}, {
+			"id": "TUxBUFNBTno3ZmY5",
+			"name": "Santa Cruz",
+			"results": 3
+		}, {
+			"id": "TUxBUENBVGFiY2Fm",
+			"name": "Catamarca",
+			"results": 2
+		}, {
+			"id": "TUxBUEZPUmE1OTk5",
+			"name": "Formosa",
+			"results": 1
+		}, {
+			"id": "TUxBUFRJRVoxM2M5YQ",
+			"name": "Tierra del Fuego",
+			"results": 1
+		}]
+	}, {
+		"id": "price",
+		"name": "Precio",
+		"type": "range",
+		"values": [{
+			"id": "*-100000.0",
+			"name": "Up to $100.000",
+			"results": 988
+		}, {
+			"id": "100000.0-150000.0",
+			"name": "$100.000 to $150.000",
+			"results": 867
+		}, {
+			"id": "150000.0-*",
+			"name": "More than $150.000",
+			"results": 1492
+		}]
+	}, {
+		"id": "accepts_mercadopago",
+		"name": "MercadoPago filter",
+		"type": "boolean",
+		"values": [{
+			"id": "yes",
+			"name": "With MercadoPago",
+			"results": 3347
+		}]
+	}, {
+		"id": "installments",
+		"name": "Pago",
+		"type": "text",
+		"values": [{
+			"id": "yes",
+			"name": "Installments",
+			"results": 2753
+		}, {
+			"id": "no_interest",
+			"name": "Sin interés",
+			"results": 513
+		}]
+	}, {
+		"id": "shipping",
+		"name": "Envío",
+		"type": "text",
+		"values": [{
+			"id": "mercadoenvios",
+			"name": "Mercado Envíos",
+			"results": 3340
+		}, {
+			"id": "fulfillment",
+			"name": "Full",
+			"results": 13
+		}]
+	}, {
+		"id": "power_seller",
+		"name": "Seller quality filter",
+		"type": "boolean",
+		"values": [{
+			"id": "yes",
+			"name": "Best sellers",
+			"results": 252
+		}]
+	}, {
+		"id": "since",
+		"name": "Auction start date filter",
+		"type": "text",
+		"values": [{
+			"id": "today",
+			"name": "Publicados hoy",
+			"results": 47
+		}]
+	}, {
+		"id": "until",
+		"name": "Auction stop filter",
+		"type": "text",
+		"values": [{
+			"id": "today",
+			"name": "Ending today",
+			"results": 10
+		}]
+	}, {
+		"id": "has_video",
+		"name": "Video publications filter",
+		"type": "boolean",
+		"values": [{
+			"id": "yes",
+			"name": "Publications with video",
+			"results": 123
+		}]
+	}, {
+		"id": "has_pictures",
+		"name": "Items with images filter",
+		"type": "boolean",
+		"values": [{
+			"id": "yes",
+			"name": "With pictures",
+			"results": 3347
+		}]
+	}, {
+		"id": "shipping_cost",
+		"name": "Costo de envío",
+		"type": "text",
+		"values": [{
+			"id": "free",
+			"name": "Gratis",
+			"results": 1894
+		}]
+	}, {
+		"id": "CORES_NUMBER",
+		"name": "Cantidad de núcleos",
+		"type": "range",
+		"values": [{
+			"id": "(*-3)",
+			"name": "3 núcleos o menos",
+			"results": 1262
+		}, {
+			"id": "[3-5)",
+			"name": "3 a 4 núcleos",
+			"results": 527
+		}, {
+			"id": "[5-*)",
+			"name": "5 núcleos o más",
+			"results": 217
+		}]
+	}, {
+		"id": "DISPLAY_SIZE",
+		"name": "Tamaño de la pantalla",
+		"type": "range",
+		"values": [{
+			"id": "(*-13.3\")",
+			"name": "Menos de 13,3 \"",
+			"results": 919
+		}, {
+			"id": "[13.3\"-14\")",
+			"name": "13,3 a 13,9 \"",
+			"results": 1440
+		}, {
+			"id": "[14\"-15.6\")",
+			"name": "14 a 15,5 \"",
+			"results": 367
+		}, {
+			"id": "[15.6\"-*)",
+			"name": "15,6 \" o más",
+			"results": 227
+		}]
+	}, {
+		"id": "HARD_DRIVE_DATA_STORAGE_CAPACITY",
+		"name": "Capacidad del disco rígido",
+		"type": "range",
+		"values": [{
+			"id": "(*-250GB)",
+			"name": "Menos de 250 GB",
+			"results": 694
+		}, {
+			"id": "[250GB-512GB)",
+			"name": "250 a 511 GB",
+			"results": 681
+		}, {
+			"id": "[512GB-2TB)",
+			"name": "512 GB a 2 TB",
+			"results": 266
+		}, {
+			"id": "[2TB-*)",
+			"name": "2 TB o más",
+			"results": 103
+		}]
+	}, {
+		"id": "IS_2_IN_1",
+		"name": "Otras características",
+		"type": "boolean",
+		"values": [{
+			"id": "242085",
+			"name": "Es 2 en 1",
+			"results": 60
+		}]
+	}, {
+		"id": "IS_GAMER",
+		"name": "Otras características",
+		"type": "boolean",
+		"values": [{
+			"id": "242085",
+			"name": "Es gamer",
+			"results": 345
+		}]
+	}, {
+		"id": "IS_ULTRABOOK",
+		"name": "Otras características",
+		"type": "boolean",
+		"values": [{
+			"id": "242085",
+			"name": "Es ultrabook",
+			"results": 743
+		}]
+	}, {
+		"id": "ITEM_CONDITION",
+		"name": "Condición",
+		"type": "STRING",
+		"values": [{
+			"id": "2230581",
+			"name": "Usado",
+			"results": 2783
+		}, {
+			"id": "2230284",
+			"name": "Nuevo",
+			"results": 540
+		}, {
+			"id": "2230582",
+			"name": "Reacondicionado",
+			"results": 24
+		}]
+	}, {
+		"id": "LINE",
+		"name": "Línea",
+		"type": "STRING",
+		"values": [{
+			"id": "95588",
+			"name": "MacBook Pro",
+			"results": 1996
+		}, {
+			"id": "95565",
+			"name": "MacBook Air",
+			"results": 1097
+		}, {
+			"id": "124650",
+			"name": "Unique",
+			"results": 3
+		}, {
+			"id": "884",
+			"name": "Premium",
+			"results": 1
+		}, {
+			"id": "2508866",
+			"name": "PowerBook",
+			"results": 1
+		}, {
+			"id": "2508865",
+			"name": "iBook",
+			"results": 1
+		}]
+	}, {
+		"id": "OS_NAME",
+		"name": "Nombre del sistema operativo",
+		"type": "STRING",
+		"values": [{
+			"id": "7232871",
+			"name": "macOS",
+			"results": 3249
+		}, {
+			"id": "4830885",
+			"name": "Windows",
+			"results": 49
+		}, {
+			"id": "5902548",
+			"name": "Linux",
+			"results": 17
+		}, {
+			"id": "4743193",
+			"name": "iOS",
+			"results": 5
+		}, {
+			"id": "4743192",
+			"name": "Android",
+			"results": 5
+		}, {
+			"id": "6283188",
+			"name": "FreeDOS",
+			"results": 3
+		}, {
+			"id": "8770659",
+			"name": "Google Chrome",
+			"results": 2
+		}]
+	}, {
+		"id": "PROCESSOR_LINE",
+		"name": "Línea del procesador",
+		"type": "STRING",
+		"values": [{
+			"id": "7769178",
+			"name": "Core i5",
+			"results": 1810
+		}, {
+			"id": "7769180",
+			"name": "Core i7",
+			"results": 526
+		}, {
+			"id": "42263",
+			"name": "Core 2 Duo",
+			"results": 118
+		}, {
+			"id": "7769179",
+			"name": "Core i3",
+			"results": 107
+		}, {
+			"id": "7769247",
+			"name": "Core i9",
+			"results": 62
+		}, {
+			"id": "7878897",
+			"name": "Core M",
+			"results": 15
+		}, {
+			"id": "44265",
+			"name": "Core Duo",
+			"results": 11
+		}, {
+			"id": "44273",
+			"name": "Celeron",
+			"results": 7
+		}, {
+			"id": "5538083",
+			"name": "Intel",
+			"results": 6
+		}, {
+			"id": "519",
+			"name": "M",
+			"results": 4
+		}, {
+			"id": "8631936",
+			"name": "0%",
+			"results": 2
+		}, {
+			"id": "8201964",
+			"name": "Core M3",
+			"results": 2
+		}, {
+			"id": "19567",
+			"name": "Core",
+			"results": 2
+		}, {
+			"id": "9011870",
+			"name": "10%",
+			"results": 1
+		}, {
+			"id": "7769252",
+			"name": "Core m3",
+			"results": 1
+		}, {
+			"id": "5391",
+			"name": "1",
+			"results": 1
+		}]
+	}, {
+		"id": "RAM_MEMORY",
+		"name": "Memoria RAM",
+		"type": "range",
+		"values": [{
+			"id": "(*-6GB)",
+			"name": "Menos de 6 GB",
+			"results": 786
+		}, {
+			"id": "[6GB-16GB)",
+			"name": "6 a 15 GB",
+			"results": 1722
+		}, {
+			"id": "[16GB-*)",
+			"name": "16 GB o más",
+			"results": 630
+		}]
+	}, {
+		"id": "SSD_DATA_STORAGE_CAPACITY",
+		"name": "Capacidad del SSD",
+		"type": "range",
+		"values": [{
+			"id": "(*-64GB)",
+			"name": "Menos de 64 GB",
+			"results": 160
+		}, {
+			"id": "[64GB-240GB)",
+			"name": "64 a 239 GB",
+			"results": 810
+		}, {
+			"id": "[240GB-480GB)",
+			"name": "240 a 479 GB",
+			"results": 1024
+		}, {
+			"id": "[480GB-512GB)",
+			"name": "480 a 511 GB",
+			"results": 218
+		}, {
+			"id": "[512GB-*)",
+			"name": "512 GB o más",
+			"results": 135
+		}]
+	}, {
+		"id": "WITH_TOUCH_SCREEN",
+		"name": "Otras características",
+		"type": "boolean",
+		"values": [{
+			"id": "242085",
+			"name": "Con pantalla táctil",
+			"results": 77
+		}]
+	}]
+}

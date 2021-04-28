@@ -45,7 +45,7 @@ class SearchResultsService {
             
             guard let responseData = response.data else {
                 // Error path.
-                // Check if erorr is due to connectivity.
+                // Check if error is due to connectivity.
                 let customError: MercadoLibreError = NetworkReachabilityManager()?.isReachable == false ? .networkError : .serverError
                 
                 // Logging.
@@ -75,6 +75,13 @@ class SearchResultsService {
                 log.error("Failed to decode resonse. \(error.localizedDescription) ")
                 completion(nil, .decodingError)
             }
+        }
+    }
+    
+    /// Downloads image data from passed URL.
+    func downloadThumbnail(url: String, completion: @escaping ((Data?) -> Void)) {
+        AF.request(url).response { response in
+            completion(response.data)
         }
     }
 }

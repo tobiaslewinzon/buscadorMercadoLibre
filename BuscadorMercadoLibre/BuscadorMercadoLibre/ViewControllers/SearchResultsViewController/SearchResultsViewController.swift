@@ -60,13 +60,18 @@ class SearchResultsViewController: UIViewController {
 // MARK: - UITableViewDelegate & UITableViewDataSource
 extension SearchResultsViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 5
+        return SearchResultsManager.shared.items.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+        let item = SearchResultsManager.shared.items[indexPath.row]
+        
         guard let cell = tableView.dequeueReusableCell(withIdentifier: "searchResultsTableViewCell", for: indexPath) as? SearchResultsTableViewCell else {
             return UITableViewCell()
         }
+        
+        cell.configureCell(item: item)
         
         return cell
     }

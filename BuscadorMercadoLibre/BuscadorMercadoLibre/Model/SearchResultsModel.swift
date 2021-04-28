@@ -29,6 +29,7 @@ struct Item: Codable {
     let thumbnail: String
     let address: Address
     let shipping: Shipping
+    var image: Data?
     
     enum CodingKeys: String, CodingKey {
         case id, title, price, condition, permalink, thumbnail, address, shipping

@@ -19,20 +19,17 @@ class SearchViewModel {
     
     init(delegate: SearchViewModelDelegate) {
         self.delegate = delegate
+        NotificationCenter.default.addObserver(self, selector: #selector(searchResultsReady), name: NSNotification.Name("searchResultsReady"), object: nil)
     }
     
     /// Calls service and performs search with passed query.
     func performSearch(query: String) {
-        SearchResultsManager.shared.performSearch(query: query) { (item, error) in
-            
-            guard let error = error else {
-                // Success path
-                self.delegate?.searchResultsReady()
-                return
-            }
-
-            // Error path.
-            self.delegate?.searchFailed(errorDescription: "\(error.getErrorMessage())")
+        SearchResultsManager.shared.performSearch(query: query) { (error) in
+            // Completion block is only called in error scenario.
         }
+    }
+    
+    @objc func searchResultsReady() {
+        self.delegate?.searchResultsReady()
     }
 }
