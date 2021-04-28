@@ -57,6 +57,12 @@ class SearchResultsViewController: UIViewController {
         SearchResultsManager.resetManager()
         self.dismiss(animated: true, completion: nil)
     }
+    
+    /// Pushes detail view controller with passed item data.
+    func navigateToDetailView(item: Item) {
+        let detailViewController = DetailViewController(item: item)
+        navigationController?.pushViewController(detailViewController, animated: true)
+    }
 }
 
 // MARK: - UITableViewDelegate & UITableViewDataSource
@@ -73,6 +79,7 @@ extension SearchResultsViewController: UITableViewDelegate, UITableViewDataSourc
             return UITableViewCell()
         }
         
+        cell.selectionStyle = .none
         cell.configureCell(item: item)
         
         return cell
@@ -80,5 +87,13 @@ extension SearchResultsViewController: UITableViewDelegate, UITableViewDataSourc
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return 200
+    }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        // Get corresponding element from manager.
+        let item = SearchResultsManager.shared.items[indexPath.row]
+        
+        // Navigate to detail view.
+        navigateToDetailView(item: item)
     }
 }

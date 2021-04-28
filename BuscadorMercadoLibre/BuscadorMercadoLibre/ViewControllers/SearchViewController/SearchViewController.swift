@@ -40,6 +40,10 @@ class SearchViewController: UIViewController {
         setupTapGestureRecognizer()
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        setupContainerViewConstraints()
+    }
+    
     // MARK: - Setup methods
     /// Setup tap gesture recognizer.
     private func setupTapGestureRecognizer() {
@@ -201,8 +205,9 @@ extension SearchViewController: SearchViewModelDelegate {
     
     /// Delegate method called when search results are ready.
     func searchResultsReady() {
-        dismissLoadingView()
-        navigateToSearchResults()
+        dismissLoadingView {
+            self.navigateToSearchResults()
+        }
     }
     
     /// Delegate method called when call failed. Prompts error modal with descriptive message.

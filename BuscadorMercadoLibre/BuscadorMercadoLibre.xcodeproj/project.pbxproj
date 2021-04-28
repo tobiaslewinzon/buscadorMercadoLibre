@@ -14,6 +14,8 @@
 		7E3E7BEB2639928000AD33C9 /* imageResponse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7BEA2639928000AD33C9 /* imageResponse.jpg */; };
 		7E3E7BED263995B300AD33C9 /* empty.json in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7BEC263995B300AD33C9 /* empty.json */; };
 		7E3E7BEF2639B3E000AD33C9 /* LoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3E7BEE2639B3E000AD33C9 /* LoadingViewController.swift */; };
+		7E3E7BF22639C0E200AD33C9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3E7BF12639C0E200AD33C9 /* DetailViewController.swift */; };
+		7E3E7BF42639C0F900AD33C9 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E7BF32639C0F900AD33C9 /* DetailViewController.xib */; };
 		7EA95F1F2634722E0069FCAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F1E2634722E0069FCAF /* AppDelegate.swift */; };
 		7EA95F212634722E0069FCAF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F202634722E0069FCAF /* SceneDelegate.swift */; };
 		7EA95F232634722E0069FCAF /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA95F222634722E0069FCAF /* SearchViewController.swift */; };
@@ -51,6 +53,8 @@
 		7E3E7BEA2639928000AD33C9 /* imageResponse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = imageResponse.jpg; sourceTree = "<group>"; };
 		7E3E7BEC263995B300AD33C9 /* empty.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = empty.json; sourceTree = "<group>"; };
 		7E3E7BEE2639B3E000AD33C9 /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
+		7E3E7BF12639C0E200AD33C9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		7E3E7BF32639C0F900AD33C9 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
 		7EA95F1B2634722E0069FCAF /* BuscadorMercadoLibre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BuscadorMercadoLibre.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA95F1E2634722E0069FCAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EA95F202634722E0069FCAF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +127,7 @@
 		7E32211F26347748000A865A /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				7E3E7BF02639C0D500AD33C9 /* DetailViewController */,
 				7ED49999263612AF00877266 /* SearchResultsViewController */,
 				7E3221252634779F000A865A /* SearchViewController */,
 				7E3E7BEE2639B3E000AD33C9 /* LoadingViewController.swift */,
@@ -148,6 +153,15 @@
 				7E3221322634D51C000A865A /* SearchViewController.xib */,
 			);
 			path = SearchViewController;
+			sourceTree = "<group>";
+		};
+		7E3E7BF02639C0D500AD33C9 /* DetailViewController */ = {
+			isa = PBXGroup;
+			children = (
+				7E3E7BF12639C0E200AD33C9 /* DetailViewController.swift */,
+				7E3E7BF32639C0F900AD33C9 /* DetailViewController.xib */,
+			);
+			path = DetailViewController;
 			sourceTree = "<group>";
 		};
 		7EA95F122634722E0069FCAF = {
@@ -359,6 +373,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EA95F2B263472310069FCAF /* LaunchScreen.storyboard in Resources */,
+				7E3E7BF42639C0F900AD33C9 /* DetailViewController.xib in Resources */,
 				7ED499B32636613A00877266 /* SearchResultsTableViewCell.xib in Resources */,
 				7EA95F28263472310069FCAF /* Assets.xcassets in Resources */,
 				7E32213D2634D694000A865A /* SearchViewController.xib in Resources */,
@@ -447,6 +462,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E3E7BF22639C0E200AD33C9 /* DetailViewController.swift in Sources */,
 				7ED499C62636680E00877266 /* SearchResultsManager.swift in Sources */,
 				7EA95F232634722E0069FCAF /* SearchViewController.swift in Sources */,
 				7EA95F1F2634722E0069FCAF /* AppDelegate.swift in Sources */,
