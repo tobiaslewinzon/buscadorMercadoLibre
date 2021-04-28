@@ -13,6 +13,7 @@ import CocoaLumberjack
 class SearchViewController: UIViewController {
     
     var viewModel: SearchViewModel?
+    var loadingVC: LoadingVewController?
     
     // MARK: - Initialization
     init() {
@@ -98,12 +99,35 @@ class SearchViewController: UIViewController {
         searchButton.isEnabled = false
     }
     
+    /// Presents loading view.
+    private func presentLoadingViewController() {
+        // Prepare screen for loading animation.
+        searchTextField.resignFirstResponder()
+        view.isUserInteractionEnabled = false
+        
+        // Configure LoadingVewController and present.
+        loadingVC = LoadingVewController()
+        loadingVC?.view.frame = view.frame
+        loadingVC?.modalPresentationStyle = .overCurrentContext
+        loadingVC?.modalTransitionStyle = .crossDissolve
+        present(loadingVC!, animated: true, completion: nil)
+    }
+    
+    /// Dismisses loading view.
+    private func dismissLoadingView(completion: (() -> Void)? = nil) {
+        view.isUserInteractionEnabled = true
+        loadingVC?.dismiss(animated: true) {
+            completion?()
+        }
+    }
+    
     // MARK: - IBActions
     @IBAction func searchAction(_ sender: Any) {
         guard let query = searchTextField.text else {
             return
         }
         
+        presentLoadingViewController()
         viewModel?.performSearch(query: query)
     }
     
@@ -174,11 +198,21 @@ extension SearchViewController: UITextFieldDelegate {
 
 // MARK: - SearchViewModelDelegate
 extension SearchViewController: SearchViewModelDelegate {
+    
+    /// Delegate method called when search results are ready.
     func searchResultsReady() {
+        dismissLoadingView()
         navigateToSearchResults()
     }
     
+    /// Delegate method called when call failed. Prompts error modal with descriptive message.
     func searchFailed(errorDescription: String) {
-        
+        dismissLoadingView {
+            let alertController = UIAlertController(title: "Ocurrió un error", message: errorDescription, preferredStyle: .alert)
+            let okAction = UIAlertAction(title: "Ok", style: .default, handler: nil)
+            
+            alertController.addAction(okAction)
+            self.present(alertController, animated: true, completion: nil)
+        }
     }
 }

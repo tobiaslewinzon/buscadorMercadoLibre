@@ -53,6 +53,8 @@ class SearchResultsViewController: UIViewController {
     // MARK: - Miscellaneous methods
     /// Dismisses view controller.
     @objc func navigateBack() {
+        // Reset manager to prepare for a new search.
+        SearchResultsManager.resetManager()
         self.dismiss(animated: true, completion: nil)
     }
 }

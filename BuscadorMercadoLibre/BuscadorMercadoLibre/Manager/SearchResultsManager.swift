@@ -21,11 +21,11 @@ class SearchResultsManager {
     
     // MARK: - Fetch methods
     /// Calls service to get results with passed query. Analyzes response.
-    func performSearch(query: String, completion: @escaping ((MercadoLibreError?) -> Void)) {
+    func performSearch(query: String, completion: @escaping ((MercadoLibreError) -> Void)) {
         service.perfomSearch(query: query) { (items, error) in
             
-            // Check if completion brought errors.
-            guard error == nil else {
+            // Check if completion brought error.
+            if let error = error {
                 // Pass on error and return immediately.
                 completion(error)
                 return
@@ -58,7 +58,7 @@ class SearchResultsManager {
         for (index, item) in items.enumerated() {
             log.info("Downloading thumbnail \(index + 1) of \(self.items.count).")
             
-            // Enter dispatch gropu to perform service call.
+            // Enter dispatch group to perform service call.
             imagesDispatchGroup.enter()
             service.downloadThumbnail(url: item.thumbnail) { (data) in
                 
